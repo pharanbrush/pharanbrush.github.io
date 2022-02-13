@@ -1,6 +1,8 @@
+---
 layout: page
 title: "A quick way to install custom brushes in Clip Studio Paint"
 permalink: /how-to-install-csp-brushes/
+---
 
 ## A quick way to install custom brushes in Clip Studio Paint
 
@@ -12,12 +14,7 @@ Clip Studio Paint brush files have the file extension .sut (meaning â€œsub toolâ
 
 There's a number of ways to install brushes. But you usually download multiple brushes in a pack, so you'll usually want to install multiple brushes at once.
 
-The fastest way to install multiple brushes is to select them in your file manager, and drag them into Clip Studio Paint's [Sub Tool] Palette. This is the palette that shows a list of "brushes" under a tool.
-
-
-- In Windows 10, the file manager is **File Explorer**.
-- In macOS, it's **Finder**.
-- In iOS/iPadOS, it's the built-in **Files** App.
+The fastest way to install multiple brushes is to select them in your file manager (File Explorer, Finder, Files App), and drag them into Clip Studio Paint's [Sub Tool] Palette. This is the palette that shows a list of "brushes" under a tool.
 
 ![](img/drag-and-drop-install-windows.gif)  
 Drag-and-drop files into the [Sub Tool] palette to install.
@@ -30,7 +27,7 @@ Drag-and-drop files into the [Sub Tool] palette to install.
 
 And that's it! You'll see the brushes added to the list and you can use them like your other brushes.
 
-> There's also an [Import sub tool...] menu option. But that only allows you to import one file at a time.
+> Alternatively: There's also an [Import sub tool...] menu option. But that only allows you to import one file at a time.
 
 ## Brushes from Clip Studio Assets
 
