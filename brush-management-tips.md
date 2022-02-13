@@ -1,6 +1,6 @@
 ---
 title: "Brush Management Tips for Clip Studio Paint"
-permalink: /how-to-install-csp-brushes/
+permalink: /brush-management-tips/
 ---
 
 # Brush Management Tips for Clip Studio Paint
