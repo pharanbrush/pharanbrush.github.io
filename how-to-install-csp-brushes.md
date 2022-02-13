@@ -30,9 +30,9 @@ And that's it! You'll see the brushes added to the list and you can use them lik
 
 ## Brushes from Clip Studio Assets
 
-Note that this can also apply to sub tool materials you get from the [Clip Studio Assets](https://assets.clip-studio.com/en-us/) site. Brushes downloaded from there get added to your Materials library rather than as files.
+Note that this can also apply to sub tool materials you get from the [Clip Studio Assets](https://assets.clip-studio.com/en-us/) site. Brushes downloaded from the Assets site get added to your Materials library instead of as files.
 
-To install brushes from the Assets site, you need to browse your Materials library to find the brushes/sub tools you downloaded. Then just drag them to the [Sub Tool] pallete.
+After downloading brushes from the Assets site, you need to browse your Materials library to find the brushes/sub tools you downloaded. Then just drag them to the [Sub Tool] pallete.
 
 Clip Studio Paint lets you open multiple [Materials] windows so just open one (go to on Window>Material>choose any of the options) and navigate to where the brushes are. You'll normally be able to find them in the **Download** folder.
 
@@ -50,6 +50,6 @@ You can use [iPadOS Split View or Slide Over](https://support.apple.com/en-ph/HT
 ![](img/ios-drag.jpg)  
 
 
-If they're not inside an archive file, sub tool files can be imported via drag-and-drop from your apps of your online storage services like Google Drive and Dropbox. However, this sometimes doesn't work based on whatever changes iOS or the individual apps make whenever they update.
+If the brushes are not inside a compressed folder, brushes can be imported via drag-and-drop from apps like Google Drive or Dropbox.
 
-If it doesn't work, you can try to move those files locally onto your iPad first, and then use the Files app to drag the files from the folder and into the [Sub tools] palette.
+However, those apps can sometimes push out updates that make this not work. If this happens, you can try to move those files onto your iPad storage first, and then use the Files app to drag the files from the folder and into the [Sub tools] palette.
