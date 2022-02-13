@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "A quick way to install custom brushes in Clip Studio Paint"
 permalink: /how-to-install-csp-brushes/
 ---
