@@ -11,9 +11,11 @@ Clip Studio Paint brush files have the file extension .sut (meaning â€œsub toolâ
 
 ## How to install brushes
 
-There's a number of ways to install brushes. But you usually download multiple brushes in a pack, so you'll usually want to install multiple brushes at once.
+There are a number of ways to install brushes. But you usually download multiple brushes in a pack, so you'll usually want to install multiple brushes at the same time.
 
-The fastest way to install multiple brushes is to select them in your file manager (File Explorer, Finder, Files App), and drag them into Clip Studio Paint's [Sub Tool] Palette. The [Sub Tool] palette is the palette that shows a list of brushes under a tool.
+The fastest way to install multiple brushes is to select them in your file manager (File Explorer, Finder, Files App), and drag them into Clip Studio Paint's [Sub Tool] Palette.
+
+The [Sub Tool] palette is the palette that shows the list of brushes under a tool.
 
 ![](img/drag-and-drop-install-windows.gif)  
 Drag-and-drop files into the [Sub Tool] palette to install.
@@ -30,11 +32,11 @@ And that's it! You'll see the brushes added to the list and you can use them lik
 
 ## Brushes from Clip Studio Assets
 
-Note that this can also apply to sub tool materials you get from the [Clip Studio Assets](https://assets.clip-studio.com/en-us/) site. Brushes downloaded from the Assets site get added to your Materials library instead of as files.
+The official [Clip Studio Assets](https://assets.clip-studio.com/en-us/) site hosts many paid and free brushes that you can download. Brushes you download from the Assets site get automatically downloaded into your Clip Studio Paint Materials library instead of downloaded as files.
 
 After downloading brushes from the Assets site, you need to browse your Materials library to find the brushes/sub tools you downloaded. Then just drag them to the [Sub Tool] pallete.
 
-Clip Studio Paint lets you open multiple [Materials] windows so just open one (go to on Window>Material>choose any of the options) and navigate to where the brushes are. You'll normally be able to find them in the **Download** folder.
+Clip Studio Paint lets you open multiple [Materials] windows, so just open one (go to `Window`>`Material`>choose any of the options) and navigate to where the downloaded brushes are. Normally, you will find them in the **Download** folder.
 
 ![](img/materials-download-folder.png)  
 
