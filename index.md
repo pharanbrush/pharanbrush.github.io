@@ -11,12 +11,6 @@ You can find my brushes at [my shop](https://ko-fi.com/pharanbrush/shop).
 
 ---
 
-Follow me:
-- Twitter [@PharanBrush](https://twitter.com/PharanBrush/)
-- Tumblr [pharanbrush.tumblr.com](https://pharanbrush.tumblr.com)
-- Blog [pharan.tech.blog](https://pharan.tech.blog)
-
-
 Some helpful reading:
 - [How to install CSP brushes](how-to-install-csp-brushes/)
 - [Too many brushes? Brush Management Tips for Clip Studio Paint](brush-management-tips/)
