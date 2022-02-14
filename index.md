@@ -16,7 +16,7 @@ Follow me:
 Brush Pack Overviews
 - [Brush Store](https://ko-fi.com/pharanbrush/shop)
 - [Tapioca](tapioca-overview) - Digital Painting Brushes - [changelog](tapioca-changelog)
-- EnpitsuP - Pencils and Drawing Brushes - changelog
+- EnpitsuP - Pencils and Drawing Brushes - [changelog](enpitsup-changelog)
 - Krupuk - Markers and Water Brushes - changelog
 
 
