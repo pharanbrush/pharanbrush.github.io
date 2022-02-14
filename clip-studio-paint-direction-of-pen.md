@@ -30,6 +30,7 @@ If your device doesn’t support this feature, Clip Studio Paint will ignore it.
 - Wacom Cintiq (and Mobile Studio series)
 - Apple Pencil
 - Microsoft Surface pen
+- Samsung S Pen (Galaxy Note and Tab since 2019... and before?)
 - Some Huion Pen tablets/screens since 2018.
 - Some XP-pen tablets/screens since 2019.
 
@@ -37,4 +38,4 @@ Make sure you check your pen tablet/pen screen’s official website to see if it
 
 
 **Further reading**
-Here’s an interesting article on the technology behind pen tilt detection: https://essentialpicks.com/tilt-sensitivity-and-rotation-in-stylus/
+Here’s an interesting article on the technology behind pen tilt detection: [https://essentialpicks.com/tilt-sensitivity-and-rotation-in-stylus/](https://essentialpicks.com/tilt-sensitivity-and-rotation-in-stylus/)
