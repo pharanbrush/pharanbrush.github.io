@@ -22,17 +22,21 @@ I'll talk about 1. **organizing brush groups**, 2. **setting shortcuts**, and fi
 
 
 1. **In Clip Studio Paint, brushes are organized into a two-level folder structure**:
+Formally: Clip Studio Paint calls these the buttons on the toolbar on the left **Tools**. The tabs on top **Sub tool groups**. And the brushes are called **Sub Tools**.
+
+To make things simpler to understand, I'll call these **Tools**, **Tabs**, and **Brushes** respectively. I'll use *sub tools* and *brushes* interchageably, where it's clearer that sub tools can also be things like rulers and shaped lasso and variations of paint bucket.
+
 1[](img/bm-list-with-labels.png)
 
-- Every brush or sub tool belongs in a Sub Tool Group.
-- Every Sub Tool Group belongs to a Tool.
-- Each Tool can have several Sub Tools. Each Sub Tool Group can hold several Sub Tools or brushes.
+- Every brush belongs in a tab.
+- Every tab belongs to a tool.
+- Each tool can have several tabs. Each tab can hold several brushes.
 
 
 The [Tool] palette/sidebar also has separators. You can split tools between separators by dragging a tool onto an existing separator. A red indicator will show a long horizontal line over the separator to show that it will make a new one.
 
 
-**You can group brushes into "sub tool groups". They act as tabs in the Sub Tool window.**
+**You can group brushes into tabs. They act as tabs in the Sub Tool window.**
 
 To make a new group: drag any brush into an empty space above the brush list. You can also drag it to the tiny space between existing groups. A red indicator will show where the group will be created.
 
@@ -44,12 +48,12 @@ You can change the order of these tabs by dragging them like tabs on a browser.
 
 **You can make NEW tools in the [Tool] sidebar. As many as you sanely want.**
 
-To make a new tool: drag any sub tool group into an empty space on the [Tool] sidebar or between existing tools. The red indicator will show where the new tool will be inserted.
+To make a new tool: drag any tab into an empty space on the [Tool] sidebar or between existing tools. The red indicator will show where the new tool will be inserted.
 ![](img/bm-create-new-tool.gif)
 
-Dragging an individual brush to the [Tool] sidebar will also make a new tool and a new subtool group for that one brush.
+Dragging an individual brush to the [Tool] sidebar will also make a new tool and a new tab for that one brush.
 
-Both individual brushes and subtool groups can be moved between existing tools in the [Tools] sidebar. The red indicator will show up as a red box around the tool to show where the brush or group will go when you release it.
+Both individual brushes and brush tabs can be moved between existing tools in the [Tools] sidebar. The red indicator will show up as a red box around the tool to show where the brush or group will go when you release it.
 
 
 **Sometimes you want to get rid of a brush you don't use much but don't want to delete it yet. You can move those brushes to a "Recycle Bin" group or tool so they're out of your way but you can dig them up if you need them.**
@@ -63,7 +67,7 @@ If you want to delete several brushes at once, group those brushes into a tool, 
 If you fiddle with your settings and get it just right for your needs, but don't want to lose your original brush, you can use [Duplicate sub tool...]. Just right-click on a brush to access it.
 ![](img/bm-duplicate.gif)
 
-In addition to duplicating the sub tool, you can use [Save as default] to save your current settings as the brush's default. You can use [Reset to default] later to restore those settings you saved.
+In addition to duplicating the brush, you can use [Save as default] to save your current settings as the brush's default. You can use [Reset to default] later to restore those settings you saved.
 ![](img/bm-reset-to-default.gif)
 
 If you want to back up your special brush, you can right-click that brush and choose [Export sub tool...]. Save it to Dropbox, Google Drive or some other online storage/backup service.
@@ -71,7 +75,7 @@ If you want to back up your special brush, you can right-click that brush and ch
 
 **3. Now for Shortcuts!**
 
-You can set shortcuts for tools, sub tool groups, and specific brushes.
+You can set shortcuts for tools, tabs, and specific brushes.
 
 Go to File>[Shortcut Settings...] (in Windows). And choose "Tool" under the Setting area dropdown.
 
@@ -83,7 +87,7 @@ Choose "Tool" under the Setting area dropdown.
 
 Like other programs, you can set shortcuts for tools.
 
-But **Clip Studio Paint also lets you set shortcuts for individual brushes and sub tool groups.**
+But **Clip Studio Paint also lets you set shortcuts for individual brushes and tabs.**
 ![](img/bm-set-tool-shortcuts.gif)
 
 
@@ -93,12 +97,12 @@ Here's where shortcuts become really powerful
 
 For example, if you assign the | key for multiple different rulers, pressing | key repeatedly will cycle through the different ruler sub tools.
 
-The order they're cycled through depends on the order of the brushes/sub tools in their list.
+The order they're cycled through depends on the order of the brushes in their list.
 ![](img/bm-reuse-tool-shortcuts.gif)
 
-**You can also reuse shortcuts for sub tool groups. Pressing the key repeatedly will give you the same cycling behavior.**
+**You can also reuse shortcuts for tabs. Pressing the key repeatedly will give you the same cycling behavior.**
 
-For example, if you assign the R key for watercolor sub tool group, and also for the acrylics sub tool group, pressing R repeatedly will switch you between watercolors and acrylic groups.
+For example, if you assign the R key for watercolor tab, and also for the acrylics tab, pressing R repeatedly will switch you between watercolors and acrylic groups.
 
 The order they're cycled through depends on the order of their tabs.
 
@@ -118,7 +122,7 @@ Just having that key for blenders can open up possibilities for you to use an ef
 
 In summary...
 
-**Group your brushes into sub tool groups and tools** according to any category scheme that makes sense to you, so if you know you need something, you'll instantly know where to find it.
+**Group your brushes into tabs and tools** according to any category scheme that makes sense to you, so if you know you need something, you'll instantly know where to find it.
 
 And for brushes or tools you use most often, **set key or button shortcuts** to help you easily reach them without even moving your pen away from your canvas!
 
