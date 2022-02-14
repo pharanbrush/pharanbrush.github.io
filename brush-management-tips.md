@@ -22,11 +22,12 @@ I'll talk about 1. **organizing brush groups**, 2. **setting shortcuts**, and fi
 
 
 1. **In Clip Studio Paint, brushes are organized into a two-level folder structure**:
+
 Formally: Clip Studio Paint calls these the buttons on the toolbar on the left **Tools**. The tabs on top **Sub tool groups**. And the brushes are called **Sub Tools**.
 
 To make things simpler to understand, I'll call these **Tools**, **Tabs**, and **Brushes** respectively. I'll use *sub tools* and *brushes* interchageably, where it's clearer that sub tools can also be things like rulers and shaped lasso and variations of paint bucket.
 
-1[](img/bm-list-with-labels.png)
+![](img/bm-list-with-labels.png)
 
 - Every brush belongs in a tab.
 - Every tab belongs to a tool.
