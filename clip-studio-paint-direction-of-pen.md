@@ -7,17 +7,17 @@ permalink: /clip-studio-paint-direction-of-pen/
 
 In Clip Studio Paint, brushes have a “Direction” setting. This determines the rotation of the brush shape when it’s painted onto the canvas.
 
-![](img/tlt-directionslider.jpg)
+![](img/tlt-directionslider.jpg)  
 Direction slider in the subtool settings.
 
 The direction of a brush can have dynamics that are based on things like pen direction, pen rotation or direction of line. This post describes how **“Direction of pen”** works.
 
-![](img/tlt-direction-dynamics.png)
+![](img/tlt-direction-dynamics.png)  
 Direction Dynamics settings popup.
 
 **Direction of pen** is the *direction* of pen tilt, as opposed the amount of pen tilt (how much the pen is horizontal or vertical). Pen direction is the angle of the pen (up, down, left, right and everything in between) you see when you look straight down on your drawing surface.
 
-![](img/tlt-stuff.jpg)
+![](img/tlt-stuff.jpg)  
 Illustration of a tall brush dynamically pointing in the direction of the pen.
 
 Some custom brushes are designed with this feature, meaning they work best when the device supports it. Most EMR pens that support tilt usually also support detecting pen direction, since they rely on the same underlying technology.
