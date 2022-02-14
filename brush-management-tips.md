@@ -123,7 +123,7 @@ When you reuse keys for multiple tabs or brushes, **the order of the tabs and br
 
 ## FAQ / Extra tips
 
-**Sometimes you want to get rid of a brush you don't use much but don't want to delete it yet. You can move those brushes to a "Recycle Bin" tab or tool so they're out of your way but you can dig them up if you need them.**
+**I don't use these brushes anymore. How do I delete several brushes at once?**
 
 If you want to delete several brushes at once, group those brushes into a tool, and delete that tool.
 
@@ -131,11 +131,17 @@ If you right-click on a tool and choose [Delete tool...], it will delete all the
 
 ![](img/bm-delete-tool.gif)
 
-**Sometimes you edit an existing brush and don't want to lose your settings.**
+Sometimes you want to get rid of a brush you don't use much but don't want to delete it yet. **You can move those brushes to a "Recycle Bin" tab or tool so they're out of your way but you can dig them up if you need them.**
+
+**I like the settings on my brush. How do I prevent it from being lost?**
+
+Sometimes you edit an existing brush and don't want to lose your settings.
 
 If you fiddle with your settings and get it just right for your needs, but don't want to lose your original brush, you can use [Duplicate sub tool...]. Just right-click on a brush to access it.
 
 ![](img/bm-duplicate.gif)
+
+**When you like the settings on your brush, make sure to use [Save as default]**
 
 In addition to duplicating the brush, you can use [Save as default] to save your current settings as the brush's default. You can use [Reset to default] later to restore those settings you saved.
 
