@@ -1,11 +1,13 @@
-[Brush Store](https://ko-fi.com/pharanbrush/shop)
+<p>
+<a href="https://ko-fi.com/pharanbrush/shop">Brush Store<a> | 
+<a href="https://twitter.com/PharanBrush/">Twitter</a> | 
+<a href="https://pharanbrush.tumblr.com">Tumblr</a> | 
+<a href="https://pharan.tech.blog">Blog</a>
+</p>
 
 ## PharanBrush
 
-This page is for documentation for my Clip Studio Paint brushes.
-
 You can find my brushes in [my shop](https://ko-fi.com/pharanbrush/shop).
-
 
 Follow me:
 - Twitter [@PharanBrush](https://twitter.com/PharanBrush/)
