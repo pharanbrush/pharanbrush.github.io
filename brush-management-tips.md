@@ -21,7 +21,7 @@ So I'll outline some tips here to get you started on some simple brush managemen
 I'll talk about 1. **organizing brush groups**, 2. **setting shortcuts**, and finally, 3. **reusing shortcuts and reordering groups to make your brush-picking lightning-fast**.
 
 
-1. **In Clip Studio Paint, brushes are organized into a two-level folder structure**:
+## 1. In Clip Studio Paint, brushes are organized as tools, tabs and brushes
 
 Formally: Clip Studio Paint calls these the buttons on the toolbar on the left **Tools**. The tabs on top **Sub tool groups**. And the brushes are called **Sub Tools**.
 
@@ -37,7 +37,7 @@ To make things simpler to understand, I'll call these **Tools**, **Tabs**, and *
 The [Tool] palette/sidebar also has separators. You can split tools between separators by dragging a tool onto an existing separator. A red indicator will show a long horizontal line over the separator to show that it will make a new one.
 
 
-**You can group brushes into tabs. They act as tabs in the Sub Tool window.**
+**You can group brushes into tabs.**
 
 To make a new group: drag any brush into an empty space above the brush list. You can also drag it to the tiny space between existing groups. A red indicator will show where the group will be created.
 
@@ -48,18 +48,20 @@ To move a brush to an existing group: drag that brush onto that group's tab. A r
 You can change the order of these tabs by dragging them like tabs on a browser.
 
 
-**You can make NEW tools in the [Tool] sidebar. As many as you sanely want.**
+**You can make NEW tools in the [Tool] sidebar.**
 
-To make a new tool: drag any tab into an empty space on the [Tool] sidebar or between existing tools. The red indicator will show where the new tool will be inserted.  
+Make as many tools as you sanely want.
+
+To make a new tool: drag any brush tab into an empty space on the [Tool] sidebar or between existing tools. The red indicator will show where the new tool will be inserted.  
 
 ![](img/bm-create-new-tool.gif)
 
 Dragging an individual brush to the [Tool] sidebar will also make a new tool and a new tab for that one brush.
 
-Both individual brushes and brush tabs can be moved between existing tools in the [Tools] sidebar. The red indicator will show up as a red box around the tool to show where the brush or group will go when you release it.
+Both individual brushes and brush tabs can be moved between existing tools in the [Tools] sidebar. The red indicator will show up as a red box around the tool to show where the brush or brush tab will go when you release it.
 
 
-**3. Now for Shortcuts!**
+## 2. Now for Shortcuts!
 
 You can set shortcuts for tools, tabs, and specific brushes.
 
@@ -80,6 +82,8 @@ But **Clip Studio Paint also lets you set shortcuts for individual brushes and t
 
 Here's where shortcuts become really powerful
 
+## 3. Reusing Shortcuts and reordering tabs and brushes
+
 **You can reuse the same shortcut for different brushes. Pressing the key repeatedly will cycle through those brushes.**
 
 For example, if you assign the `|` key for multiple different rulers, pressing `|` key repeatedly will cycle through the different ruler sub tools.
@@ -90,14 +94,13 @@ The order they're cycled through depends on the order of the brushes in their li
 
 **You can also reuse shortcuts for tabs. Pressing the key repeatedly will give you the same cycling behavior.**
 
-For example, if you assign the `R` key for watercolor tab, and also for the acrylics tab, pressing `R` repeatedly will switch you between watercolors and acrylic groups.
+For example, if you assign the `R` key for watercolor tab, and also for the acrylics tab, pressing `R` repeatedly will switch you between watercolors and acrylic tabs.
 
-The order they're cycled through depends on the order of their tabs.
+**The order they're cycled through depends on the order of their tabs.**
 
+This means after you organize your brushes into tabs, you can give similar tabs the same shortcut key.
 
-This means after you organize your brushes into groups, you can give similar groups the same shortcut key.
-
-And depending on your needs at the moment, you can reorder your group tabs and brush lists according to what you want your shortcut to give you immediately.
+And depending on your needs at the moment, you can reorder your tabs and brush lists according to what you want your shortcut to give you immediately.
 
 For example: for one task, you may want your `F` key to be primarily for painting using a plain, smooth brush. For your next task or next painting, you may want "F" to use a grainy brush. Instead of having to dig through the shortcuts all the time, you can just reorder your tabs and lists to have easy reach for what you want at the moment, then easily change the order again later when your task or technique or style changes.
 
@@ -108,19 +111,19 @@ For example, `L` can be used for the Lasso selection tool. But you can also use 
 Just having that key for blenders can open up possibilities for you to use an efficient and no-stress paint-then-blend technique.
 
 
-In summary...
+## In summary...
 
 **Group your brushes into tabs and tools** according to any category scheme that makes sense to you, so if you know you need something, you'll instantly know where to find it.
 
 And for brushes or tools you use most often, **set key or button shortcuts** to help you easily reach them without even moving your pen away from your canvas!
 
-When you reuse keys for multiple groups or brushes, **the order of the groups and brushes will change the order the shortcut cycles through them**. So change them as often as you want depending on what you're doing.
+When you reuse keys for multiple tabs or brushes, **the order of the tabs and brushes will change the order the shortcut cycles through them**. So change them as often as you want depending on what you're doing.
 
 
 
 ## FAQ / Extra tips
 
-**Sometimes you want to get rid of a brush you don't use much but don't want to delete it yet. You can move those brushes to a "Recycle Bin" group or tool so they're out of your way but you can dig them up if you need them.**
+**Sometimes you want to get rid of a brush you don't use much but don't want to delete it yet. You can move those brushes to a "Recycle Bin" tab or tool so they're out of your way but you can dig them up if you need them.**
 
 If you want to delete several brushes at once, group those brushes into a tool, and delete that tool.
 
