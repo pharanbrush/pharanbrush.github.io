@@ -3,8 +3,6 @@ title: "Krupuk - changelog"
 permalink: /krupuk-changelog/
 ---
 
-{% include top-navbar.md %}
-
 # Krupuk - Markers and Water Brushes for Clip Studio Paint
 ## Changelog
 
