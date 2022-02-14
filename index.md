@@ -9,10 +9,10 @@ You can find my brushes at [my shop](https://ko-fi.com/pharanbrush/shop).
 - [Tapioca](tapioca-overview) - Digital Painting Brushes - [changelog](tapioca-changelog)
 - BorupenP - [changelog](borupenp-changelog)
 
+![](img/enpitsup/enpitsup-sidebar-banner.png) <br> Changelog | ![](img/krupuk/krupuk-sidebar-banner.png) <br> Changelog \| 
+![](img/tapioca/tapioca-sidebar-banner.png) <br> Overview \| Changelog  | ![](img/borupenp/borupenp-sidebar-banner.png)  Changelog
+
 ---
 
-Some helpful reading:
-- [How to install CSP brushes](how-to-install-csp-brushes/)
-- [Too many brushes? Brush Management Tips for Clip Studio Paint](brush-management-tips/)
-- [Pen direction support in Clip Studio Paint](/clip-studio-paint-direction-of-pen/)
+{% include helpful-reading.html %}
 
