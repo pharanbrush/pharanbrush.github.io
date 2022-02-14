@@ -59,26 +59,6 @@ Dragging an individual brush to the [Tool] sidebar will also make a new tool and
 Both individual brushes and brush tabs can be moved between existing tools in the [Tools] sidebar. The red indicator will show up as a red box around the tool to show where the brush or group will go when you release it.
 
 
-**Sometimes you want to get rid of a brush you don't use much but don't want to delete it yet. You can move those brushes to a "Recycle Bin" group or tool so they're out of your way but you can dig them up if you need them.**
-
-
-If you want to delete several brushes at once, group those brushes into a tool, and delete that tool. If you right-click on a tool and choose [Delete tool...], it will delete all the brushes under it. Be careful! Make sure you have a copy of your important brushes.
-
-![](img/bm-delete-tool.gif)
-
-**2. Sometimes you edit an existing brush and don't want to lose your settings.**
-
-If you fiddle with your settings and get it just right for your needs, but don't want to lose your original brush, you can use [Duplicate sub tool...]. Just right-click on a brush to access it.
-
-![](img/bm-duplicate.gif)
-
-In addition to duplicating the brush, you can use [Save as default] to save your current settings as the brush's default. You can use [Reset to default] later to restore those settings you saved.
-
-![](img/bm-reset-to-default.gif)
-
-If you want to back up your special brush, you can right-click that brush and choose [Export sub tool...]. Save it to Dropbox, Google Drive or some other online storage/backup service.
-
-
 **3. Now for Shortcuts!**
 
 You can set shortcuts for tools, tabs, and specific brushes.
@@ -102,7 +82,7 @@ Here's where shortcuts become really powerful
 
 **You can reuse the same shortcut for different brushes. Pressing the key repeatedly will cycle through those brushes.**
 
-For example, if you assign the | key for multiple different rulers, pressing | key repeatedly will cycle through the different ruler sub tools.
+For example, if you assign the `|` key for multiple different rulers, pressing `|` key repeatedly will cycle through the different ruler sub tools.
 
 The order they're cycled through depends on the order of the brushes in their list.  
 
@@ -110,7 +90,7 @@ The order they're cycled through depends on the order of the brushes in their li
 
 **You can also reuse shortcuts for tabs. Pressing the key repeatedly will give you the same cycling behavior.**
 
-For example, if you assign the R key for watercolor tab, and also for the acrylics tab, pressing R repeatedly will switch you between watercolors and acrylic groups.
+For example, if you assign the `R` key for watercolor tab, and also for the acrylics tab, pressing `R` repeatedly will switch you between watercolors and acrylic groups.
 
 The order they're cycled through depends on the order of their tabs.
 
@@ -119,11 +99,11 @@ This means after you organize your brushes into groups, you can give similar gro
 
 And depending on your needs at the moment, you can reorder your group tabs and brush lists according to what you want your shortcut to give you immediately.
 
-For example: for one task, you may want your "F" key to be primarily for painting using a plain, smooth brush. For your next task or next painting, you may want "F" to use a grainy brush. Instead of having to dig through the shortcuts all the time, you can just reorder your tabs and lists to have easy reach for what you want at the moment, then easily change the order again later when your task or technique or style changes.
+For example: for one task, you may want your `F` key to be primarily for painting using a plain, smooth brush. For your next task or next painting, you may want "F" to use a grainy brush. Instead of having to dig through the shortcuts all the time, you can just reorder your tabs and lists to have easy reach for what you want at the moment, then easily change the order again later when your task or technique or style changes.
 
 **Using this can also free up your other keys for other tools.**
 
-For example, "L" can be used for the Lasso selection tool. But you can also use L for the rectangle select and polyline select tools. This can free up your "M" key for use with mixers and blenders.
+For example, `L` can be used for the Lasso selection tool. But you can also use `L` for the rectangle select and polyline select tools. This can free up your `M` key for use with mixers and blenders.
 
 Just having that key for blenders can open up possibilities for you to use an efficient and no-stress paint-then-blend technique.
 
@@ -137,6 +117,32 @@ And for brushes or tools you use most often, **set key or button shortcuts** to 
 When you reuse keys for multiple groups or brushes, **the order of the groups and brushes will change the order the shortcut cycles through them**. So change them as often as you want depending on what you're doing.
 
 
+
+## FAQ / Extra tips
+
+**Sometimes you want to get rid of a brush you don't use much but don't want to delete it yet. You can move those brushes to a "Recycle Bin" group or tool so they're out of your way but you can dig them up if you need them.**
+
+If you want to delete several brushes at once, group those brushes into a tool, and delete that tool.
+
+If you right-click on a tool and choose [Delete tool...], it will delete all the brushes under it. Be careful! Make sure you have a copy of your important brushes.
+
+![](img/bm-delete-tool.gif)
+
+**Sometimes you edit an existing brush and don't want to lose your settings.**
+
+If you fiddle with your settings and get it just right for your needs, but don't want to lose your original brush, you can use [Duplicate sub tool...]. Just right-click on a brush to access it.
+
+![](img/bm-duplicate.gif)
+
+In addition to duplicating the brush, you can use [Save as default] to save your current settings as the brush's default. You can use [Reset to default] later to restore those settings you saved.
+
+![](img/bm-reset-to-default.gif)
+
+If you want to back up your special brush, you can right-click that brush and choose [Export sub tool...]. Save it to Dropbox, Google Drive or some other online storage/backup service.
+
+
+
+## Thanks for reading!
 That's all the tips I have for now. Happy drawing and painting!
 
 
