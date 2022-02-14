@@ -1,14 +1,8 @@
-[Brush Store](https://ko-fi.com/pharanbrush/shop) \| [Twitter](https://twitter.com/PharanBrush/) \| [Tumblr](https://pharanbrush.tumblr.com) \| [Blog](https://pharan.tech.blog)
+[Brush Store](https://ko-fi.com/pharanbrush/shop) \| [Twitter](https://twitter.com/PharanBrush/) \| [Blog](https://pharan.tech.blog)
 
 ## PharanBrush
 
 You can find my brushes at [my shop](https://ko-fi.com/pharanbrush/shop).
-
-Follow me:
-- Twitter [@PharanBrush](https://twitter.com/PharanBrush/)
-- Tumblr [pharanbrush.tumblr.com](https://pharanbrush.tumblr.com)
-- Blog [pharan.tech.blog](https://pharan.tech.blog)
-
 
 ### Brush Pack Documentation
 - [Brush Store](https://ko-fi.com/pharanbrush/shop)
@@ -18,6 +12,12 @@ Follow me:
 - BorupenP - [changelog](borupenp-changelog)
 
 ---
+
+Follow me:
+- Twitter [@PharanBrush](https://twitter.com/PharanBrush/)
+- Tumblr [pharanbrush.tumblr.com](https://pharanbrush.tumblr.com)
+- Blog [pharan.tech.blog](https://pharan.tech.blog)
+
 
 Some helpful reading:
 - [How to install CSP brushes](how-to-install-csp-brushes/)

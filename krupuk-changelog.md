@@ -6,7 +6,7 @@ permalink: /krupuk-changelog/
 # Krupuk - Markers and Water Brushes for Clip Studio Paint
 ## Changelog
 
-- **Shop page:** https://ko-fi.com/pharanbrush/shop
+**Shop page:** [https://ko-fi.com/pharanbrush/shop](https://ko-fi.com/pharanbrush/shop)
 
 ![](img/krupuk/krupuk-sidebar-banner.png)
 

@@ -6,7 +6,7 @@ permalink: /enpitsup-changelog/
 # EnpitsuP - Pencils and Drawing Brushes for Clip Studio Paint
 ## Changelog
 
-- **Shop page:** https://ko-fi.com/pharanbrush/shop
+- **Shop page:** [https://ko-fi.com/pharanbrush/shop](https://ko-fi.com/pharanbrush/shop)
 
 ![](img/enpitsup/enpitsup-sidebar-banner.png)
 

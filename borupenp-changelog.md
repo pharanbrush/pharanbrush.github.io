@@ -6,7 +6,7 @@ permalink: /borupenp-changelog/
 # BorupenP - Office and School Supply Brushes for Clip Studio Paint
 ## Changelog
 
-- **Shop page:** https://ko-fi.com/pharanbrush/shop
+- **Shop page:** [https://ko-fi.com/pharanbrush/shop](https://ko-fi.com/pharanbrush/shop)
 
 ![](img/borupenp/borupenp-sidebar-banner.png)
 
