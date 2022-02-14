@@ -34,6 +34,8 @@ A set of digital-looking brushes, some plain with varying hardness for maximum c
 ## Blenders
 Tapioca also includes various blending brushes.
 
+{% include youtube-embed url="https://www.youtube.com/embed/kWW_hsC4WRI" %}
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kWW_hsC4WRI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
