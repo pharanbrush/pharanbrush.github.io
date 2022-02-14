@@ -40,7 +40,8 @@ The [Tool] palette/sidebar also has separators. You can split tools between sepa
 
 To make a new group: drag any brush into an empty space above the brush list. You can also drag it to the tiny space between existing groups. A red indicator will show where the group will be created.
 
-To move a brush to an existing group: drag that brush onto that group's tab. A red box will show where the brush will go when you release it.
+To move a brush to an existing group: drag that brush onto that group's tab. A red box will show where the brush will go when you release it.  
+
 ![](img/bm-create-group.gif)
 
 You can change the order of these tabs by dragging them like tabs on a browser.
@@ -48,7 +49,8 @@ You can change the order of these tabs by dragging them like tabs on a browser.
 
 **You can make NEW tools in the [Tool] sidebar. As many as you sanely want.**
 
-To make a new tool: drag any tab into an empty space on the [Tool] sidebar or between existing tools. The red indicator will show where the new tool will be inserted.
+To make a new tool: drag any tab into an empty space on the [Tool] sidebar or between existing tools. The red indicator will show where the new tool will be inserted.  
+
 ![](img/bm-create-new-tool.gif)
 
 Dragging an individual brush to the [Tool] sidebar will also make a new tool and a new tab for that one brush.
@@ -60,14 +62,17 @@ Both individual brushes and brush tabs can be moved between existing tools in th
 
 
 If you want to delete several brushes at once, group those brushes into a tool, and delete that tool. If you right-click on a tool and choose [Delete tool...], it will delete all the brushes under it. Be careful! Make sure you have a copy of your important brushes.
+
 ![](img/bm-delete-tool.gif)
 
 **2. Sometimes you edit an existing brush and don't want to lose your settings.**
 
 If you fiddle with your settings and get it just right for your needs, but don't want to lose your original brush, you can use [Duplicate sub tool...]. Just right-click on a brush to access it.
+
 ![](img/bm-duplicate.gif)
 
 In addition to duplicating the brush, you can use [Save as default] to save your current settings as the brush's default. You can use [Reset to default] later to restore those settings you saved.
+
 ![](img/bm-reset-to-default.gif)
 
 If you want to back up your special brush, you can right-click that brush and choose [Export sub tool...]. Save it to Dropbox, Google Drive or some other online storage/backup service.
@@ -88,6 +93,7 @@ Choose "Tool" under the Setting area dropdown.
 Like other programs, you can set shortcuts for tools.
 
 But **Clip Studio Paint also lets you set shortcuts for individual brushes and tabs.**
+
 ![](img/bm-set-tool-shortcuts.gif)
 
 
@@ -97,7 +103,8 @@ Here's where shortcuts become really powerful
 
 For example, if you assign the | key for multiple different rulers, pressing | key repeatedly will cycle through the different ruler sub tools.
 
-The order they're cycled through depends on the order of the brushes in their list.
+The order they're cycled through depends on the order of the brushes in their list.  
+
 ![](img/bm-reuse-tool-shortcuts.gif)
 
 **You can also reuse shortcuts for tabs. Pressing the key repeatedly will give you the same cycling behavior.**
