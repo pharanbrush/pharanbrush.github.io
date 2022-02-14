@@ -10,6 +10,8 @@ permalink: /tapioca-changelog/
 - **Shop page:** https://ko-fi.com/pharanbrush/shop
 - **Overview page:** [Tapioca overview](../tapioca-overview)
 
+![](img/tapioca/tapioca-sidebar-banner.png)
+
 ---
 ## 2021
 
