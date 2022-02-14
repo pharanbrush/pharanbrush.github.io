@@ -5,9 +5,9 @@ permalink: /tapioca-overview/
 
 # Tapioca - Digital Painting Brushes for Clip Studio Paint
 
-- **Tapioca does not include EnpitsuP and Krupuk. Those are separate brush sets.**
 - **Shop page:** https://ko-fi.com/pharanbrush/shop
-- **Changelog:** [changelog](../tapioca-changelog)
+- **Changelog:** [Tapioca changelog](../tapioca-changelog)
+- **Tapioca does not include EnpitsuP and Krupuk. Those are separate brush sets.**
 
 Tapioca is multiple sets of brush sets. Each set has a theme that helps you achieve a certain look or task.
 

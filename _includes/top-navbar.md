@@ -1,1 +1,1 @@
-[Brush Store](https://ko-fi.com/pharanbrush/shop) \| [Twitter](https://twitter.com/PharanBrush/) \| [Blog](https://pharan.tech.blog)
+[Brush Store](https://ko-fi.com/pharanbrush/shop) \| [Twitter](https://twitter.com/PharanBrush/) \| [Blog](https://pharan.tech.blog)  
