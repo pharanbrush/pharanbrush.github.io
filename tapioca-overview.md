@@ -36,8 +36,6 @@ Tapioca also includes various blending brushes.
 
 {% include youtube-embed.html url="https://www.youtube.com/embed/kWW_hsC4WRI" %}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kWW_hsC4WRI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ---
 
 ## SIGH Suisai
@@ -115,7 +113,7 @@ These are particle brushes for use with shape-oriented grainy shading or to add 
 
 A small set of brushes based on the various other sets, specifically designed to add texture and character to edges to make them less perfectly clean, or adjust and sculpt the edges of the shape.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H5uU_zV8wQI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube-embed.html url="https://www.youtube.com/embed/H5uU_zV8wQI" %}
 
 ---
 
@@ -127,7 +125,7 @@ This set includes painting utility brushes like buckets and fillers, color-pulle
 
 ![](img/tapioca/tapioca-chalkfiller.gif)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Up5lJUwulEo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube-embed.html url="https://www.youtube.com/embed/Up5lJUwulEo" %}
 
 ---
 
