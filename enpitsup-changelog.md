@@ -1,5 +1,6 @@
 ---
-title: "EnpitsuP - changelog"
+title: "EnpitsuP"
+subtitle: "EnpitsuP Changelog"
 permalink: /enpitsup-changelog/
 brushpack: enpitsup
 ---

@@ -1,5 +1,6 @@
 ---
-title: "BorupenP - changelog"
+title: "BorupenP"
+subtitle: "BorupenP Changelog"
 permalink: /borupenp-changelog/
 brushpack: borupenp
 ---

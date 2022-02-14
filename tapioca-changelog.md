@@ -1,5 +1,6 @@
 ---
-title: "Tapioca - changelog"
+title: "Tapioca"
+subtitle: "Tapioca Changelog"
 permalink: /tapioca-changelog/
 brushpack: tapioca
 ---

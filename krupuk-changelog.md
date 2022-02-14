@@ -1,5 +1,6 @@
 ---
-title: "Krupuk - changelog"
+title: "Krupuk"
+subtitle: "Krupuk Changelog"
 permalink: /krupuk-changelog/
 brushpack: krupuk
 ---
