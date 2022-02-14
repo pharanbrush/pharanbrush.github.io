@@ -9,13 +9,13 @@ permalink: /tapioca-overview/
 
 Tapioca is multiple sets of brush sets. Each set has a theme that helps you achieve a certain look or task.
 
+![](img/tapioca/tapioca-cover.jpg)
 
 I tried to design these brushes to save time, get paintings done and be fun to use.
 
 I made this set to fill in what I wanted from Clip Studio Paint for digital painting: basic things like reliable blenders, to blendy brushes with varying amounts of smoothness/texture and grit, brushes that help me adjust, smooth or distress edges, reliable fill tools, and more specific things like shaped brushes for abstract, painted-looking leaves, bushes and smoke.
 
-Using the techniques and insights I got from making BorupenP, EnpitsuP and Krupuk, I slowly built up this set to cover a variety of uses and styles.
-
+![](img/tapioca/tapioca-green-bar.gif)
 
 Many of these were designed to be usable for finished works, and with some careful use, combination and adjustment, they can help you make things look very polished or getting to the polishing step faster. But I think a large benefit of some of these brushes is also for quick sketches, where something just needs to look like something quickly to get an idea across.
 

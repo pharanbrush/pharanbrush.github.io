@@ -12,6 +12,15 @@ Follow me:
 - Tumblr [pharanbrush.tumblr.com](https://pharanbrush.tumblr.com)
 - Blog [pharan.tech.blog](https://pharan.tech.blog)
 
+
+Brush Pack Overviews
+- [Brush Store](https://ko-fi.com/pharanbrush/shop)
+- [Tapioca](tapioca-overview) - Digital Painting Brushes - changelog
+- EnpitsuP - Pencils and Drawing Brushes - changelog
+- Krupuk - Markers and Water Brushes - changelog
+
+
+
 Some helpful reading:
 - [How to install CSP brushes](how-to-install-csp-brushes/)
 - [Too many brushes? Brush Management Tips for Clip Studio Paint](brush-management-tips/)
