@@ -42,5 +42,3 @@ The brushes are adapted from existing brushes in the Tapioca and Krupuk sets.
 ![](img/krupuk/krupuk-shibe.gif)
 
 ---
-
-{% include helpful-reading.md %}
