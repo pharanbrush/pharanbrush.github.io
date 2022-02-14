@@ -8,7 +8,7 @@ permalink: /tapioca-changelog/
 
 - **Tapioca does not include EnpitsuP and Krupuk. Those are separate brush sets.**
 - **Shop page:** https://ko-fi.com/pharanbrush/shop
-
+- **Overview page:** [Tapioca overview](../tapioca-overview)
 
 ---
 ## 2021
