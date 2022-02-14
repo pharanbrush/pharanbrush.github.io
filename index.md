@@ -1,12 +1,6 @@
+[Brush Store](https://ko-fi.com/pharanbrush/shop) \| [Twitter](https://twitter.com/PharanBrush/) \| [Tumblr](https://pharanbrush.tumblr.com) \| [Blog](https://pharan.tech.blog)
+
 ## PharanBrush
-
-<p>
-<a href="https://ko-fi.com/pharanbrush/shop">Brush Store<a> | 
-<a href="https://twitter.com/PharanBrush/">Twitter</a> | 
-<a href="https://pharanbrush.tumblr.com">Tumblr</a> | 
-<a href="https://pharan.tech.blog">Blog</a></p>
-
-PharanBrush
 
 You can find my brushes at [my shop](https://ko-fi.com/pharanbrush/shop).
 
