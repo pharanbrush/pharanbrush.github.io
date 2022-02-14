@@ -45,7 +45,7 @@ To move a brush to an existing group: drag that brush onto that group's tab. A r
 
 ![](img/bm-create-group.gif)
 
-You can change the order of these tabs by dragging them like tabs on a browser.
+**You can change the order of these tabs by dragging them like tabs on a browser.**
 
 
 **You can make NEW tools in the [Tool] sidebar.**
