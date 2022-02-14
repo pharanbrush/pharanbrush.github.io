@@ -1,5 +1,3 @@
-[Brush Store](https://ko-fi.com/pharanbrush/shop) \| [Twitter](https://twitter.com/PharanBrush/) \| [Blog](https://pharan.tech.blog)
-
 ## PharanBrush
 
 You can find my brushes at [my shop](https://ko-fi.com/pharanbrush/shop).
