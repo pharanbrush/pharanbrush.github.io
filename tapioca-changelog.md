@@ -1,6 +1,7 @@
 ---
 title: "Tapioca - changelog"
 permalink: /tapioca-changelog/
+brushpack: tapioca
 ---
 
 # Tapioca - Digital Painting Brushes for Clip Studio Paint

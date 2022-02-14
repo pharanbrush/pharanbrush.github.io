@@ -1,6 +1,7 @@
 ---
 title: "Krupuk - changelog"
 permalink: /krupuk-changelog/
+brushpack: krupuk
 ---
 
 # Krupuk - Markers and Water Brushes for Clip Studio Paint

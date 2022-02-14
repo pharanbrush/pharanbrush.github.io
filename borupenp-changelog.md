@@ -1,6 +1,7 @@
 ---
 title: "BorupenP - changelog"
 permalink: /borupenp-changelog/
+brushpack: borupenp
 ---
 
 # BorupenP - Office and School Supply Brushes for Clip Studio Paint

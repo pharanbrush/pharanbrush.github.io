@@ -1,6 +1,7 @@
 ---
 title: "EnpitsuP - changelog"
 permalink: /enpitsup-changelog/
+brushpack: enpitsup
 ---
 
 # EnpitsuP - Pencils and Drawing Brushes for Clip Studio Paint
