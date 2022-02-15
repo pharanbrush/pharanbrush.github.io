@@ -1,7 +1,7 @@
 ---
 title: "Krupuk"
 subtitle: "Krupuk Overview"
-permalink: /krupuk-changelog/
+permalink: /krupuk-overview/
 brushpack: krupuk
 ---
 
