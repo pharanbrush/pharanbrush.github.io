@@ -14,13 +14,16 @@ brushpack: krupuk
 
 This was originally a set of brushes to help me quickly do quick coloring on sketches, but I later expanded to be able to achieve a broader set of marker-like looks.
 
-Included in the set:
+---
+
+## Included in the set
 - **Krupuk** (the main set)
 - **Kropek** - the experimental dual brush variants of Krupuk
 - **Krupuk Inkers** - water-based inking brushes with color dynamics
 - **Shibe** - the experimental blendable layer setup
 - **Script Tzu** - Asian calligraphy brushes
 
+---
 
 ### Krupuk
 
@@ -51,11 +54,9 @@ More recently, Clip Studio Paint has added the ability to adjust the **Brightnes
 
 Krupuk also includes a set of **effects brushes** that help achieve certain effects.
 
-![](img/krupuk/krupuk-tips-water-erasers.jpg)
-
 ### Kropek
 
-**Kropek** is the smaller set of dual brushes compatible with Clip Studio Paints updated brush engine (1.10.x). These allow the paper texture and brush texture to show through on the edges for a drying brush look. These can be combined with the regular Krupuk set as long as you match the color density and paper texture.
+**Kropek** is the smaller set of dual brushes compatible with Clip Studio Paint's updated brush engine (1.10.x). These allow the paper texture and brush texture to show through on the edges for a dry brush look. These can be combined with the regular Krupuk set as long as you match the color density and paper texture.
 
 These also include the WCB paper texture.
 
@@ -81,6 +82,12 @@ These also include the WCB paper texture.
 
 Here are some tips and how-tos that are included in the pack.
 
+![](img/krupuk/krupuk-sample-markerbrand1.jpg)
+
+![](img/krupuk/krupuk-sample-opaque1.jpg)
+
+---
+
 Choose between *Compare Density*, *Normal*, or *Multiply* depending on what you're working on.
 
 ![](img/krupuk/krupuk-tips-compare-density.jpg)
@@ -95,6 +102,8 @@ In the absence of an actual water engine in Clip Studio Paint, the set comes wit
 ![](img/krupuk/krupuk-tips-unevenness1.jpg)
 
 ![](img/krupuk/krupuk-tips-unevenness2.jpg)
+
+![](img/krupuk/krupuk-tips-water-erasers.jpg)
 
 ---
 
