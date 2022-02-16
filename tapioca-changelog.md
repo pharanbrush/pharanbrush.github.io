@@ -19,7 +19,9 @@ brushpack: tapioca
 
 ### 2022 Feb 17
 
-Added **Cracklings** to Tzu Season 3. Crackings are various flat brushes that are mainly for solid, dense painting. If you have a pen that supports pen direction, I think these are more controllable than the other heavily-textured Tzu brushes.
+Added **Cracklings** to Tzu Season 3.
+
+**Crackings** are various flat brushes that are mainly for solid, dense painting. If you have a pen that supports pen direction, I think these are more controllable than the other heavily-textured Tzu brushes.
 
 ![](img/tapioca/tapioca-cracklings-montage.gif)
 

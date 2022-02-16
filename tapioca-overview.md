@@ -52,7 +52,7 @@ Various high-texture brushes for different purposes, including blenders. These a
 
 ![](img/tapioca/tapioca-cracklings-montage.gif)
 
-**Cracklings** textured flat brushes in Tzu Season 3.
+**Cracklings** textured flat brushes in Tzu Season 3. Crackings are various flat brushes that are mainly for solid, dense painting. If you have a pen that supports pen direction, I think these are more controllable than the other heavily-textured Tzu brushes.
 
 ---
 
