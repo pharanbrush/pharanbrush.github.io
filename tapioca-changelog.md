@@ -38,6 +38,8 @@ As with the other updates, this a free update for anyone who has previously purc
 
 These will require the new Clip Studio Paint update (version 1.11.x)
 
+![](img/tapioca/tapioca-cover-2-0.jpg)
+
 **Changes to brush organization:**
 
 - The main Tapioca set will have a greater emphasis on the digital-looking brushes. To this end, the Tzu brushes will be separated out into their own files in Seasons which correspond to the different similarly-designed brushes taking advantage of new CSP brush features. This is me partly wanting to retire brushes that don't look as good to me as the new ones, but on the other hand, they still have good uses. So:
