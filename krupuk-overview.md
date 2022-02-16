@@ -101,8 +101,6 @@ In the absence of an actual water engine in Clip Studio Paint, the set comes wit
 
 ![](img/krupuk/krupuk-tips-unevenness1.jpg)
 
-![](img/krupuk/krupuk-tips-unevenness2.jpg)
-
 ![](img/krupuk/krupuk-tips-water-erasers.jpg)
 
 ---

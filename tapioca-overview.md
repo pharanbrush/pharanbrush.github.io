@@ -50,6 +50,10 @@ Various high-texture brushes for different purposes, including blenders. These a
 
 ![](img/tapioca/tapioca-tzu-s3.jpg)
 
+![](img/tapioca/tapioca-cracklings-montage.gif)
+
+**Cracklings** textured flat brushes in Tzu Season 3.
+
 ---
 
 ## EnpitsuPaint
