@@ -86,6 +86,9 @@ Here are some tips and how-tos that are included in the pack.
 
 ![](img/krupuk/krupuk-sample-opaque1.jpg)
 
+![](img/krupuk/krupuk-sample-dusk.jpg)
+(character Dusk belongs to [@duskwalker](https://twitter.com/duskwalker_))
+
 ---
 
 Choose between *Compare Density*, *Normal*, or *Multiply* depending on what you're working on.
