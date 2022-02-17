@@ -74,6 +74,8 @@ These also include the WCB paper texture.
 
 ![](img/krupuk/krupuk-script-tzu.gif)
 
+![](img/krupuk/krupuk-script-tzu-ya.gif)
+
 
 ---
 
