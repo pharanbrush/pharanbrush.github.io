@@ -18,21 +18,32 @@ body {
     padding: 4rem 6rem;
 }
 
+.page-header.enpitsup,
+.page-header.krupuk,
+.page-header.tapioca,
+.page-header.borupenp
+{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; 
+}
+
 .page-header.enpitsup {
     //background-image: linear-gradient(140deg, #838397, #4f4f4f);
     background-image: url("https://pharanbrush.github.io/img/banner-bg-enpitsup.jpg");
-    background-repeat: no-repeat;
-    background-size: 150%;   
 }
 
 .page-header.krupuk {
-    background-image: linear-gradient(140deg, #e593f0, #f25f66);
+    //background-image: linear-gradient(140deg, #e593f0, #f25f66);
+    background-image: url("https://pharanbrush.github.io/img/banner-bg-krupuk.jpg");
 }
 
 .page-header.tapioca {
-    background-image: linear-gradient(140deg, #f0d093, #f24138);
+    //background-image: linear-gradient(140deg, #f0d093, #f24138);
+    background-image: url("https://pharanbrush.github.io/img/banner-bg-tapioca.jpg");
 }
 
 .page-header.borupenp {
-    background-image: linear-gradient(140deg, #232a91, #977df2);
+    //background-image: linear-gradient(140deg, #232a91, #977df2);
+    background-image: url("https://pharanbrush.github.io/img/banner-bg-borupenp.jpg");
 }
