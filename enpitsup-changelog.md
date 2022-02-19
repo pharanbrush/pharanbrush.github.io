@@ -33,7 +33,15 @@ I've uploaded a beta version of the shading-and-rendering-centric Render Enpitsu
 Added **BorupenP WobbleWrite** to BorupenP Plus. It's like writing on a sheet of paper with a rough surface underneath. (Updated this twice today to improve the light-pressure shading behavior.)
 
 
-### Jul 2021 : MAJOR UPDATE
+### Jul 2021
+
+**MAJOR UPDATE**
+
+![](img/enpitsup/enpitsup-list-pencils-version-3.jpg)
+
+![](img/enpitsup/enpitsup-list-pens-version-3.jpg)
+
+![](img/enpitsup/enpitsup-list-superclean-version-3.jpg)
 
 Added **DarkwellP** and some **extra variations of QuackwellP**.
 
