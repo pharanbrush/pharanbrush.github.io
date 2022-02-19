@@ -95,6 +95,10 @@ Here are some tips and how-tos that are included in the pack.
 
 Choose between *Compare Density*, *Normal*, or *Multiply* depending on what you're working on.
 
+![](img/krupuk/krupuk-tips-compare-density-connect.gif)
+
+The **[Compare Density]** brush blend mode lets separate semitransparent brush strokes connect. This lets you more carefully create a shape through multiple strokes, undo individual ones and try again, or even erase and paint a new stroke to patch it up. (*if you use the same semitransparent brush to erase, [Compare Density] will cause it to limit how much it can erase. In this case, it's more effective to have a separate brush for erasing especially if you need to erase fully.)
+
 ![](img/krupuk/krupuk-tips-compare-density.jpg)
 
 ![](img/krupuk/krupuk-tips-blend-modes.jpg)
