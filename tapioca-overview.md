@@ -50,18 +50,18 @@ Various high-texture brushes for different purposes, including blenders. These a
 
 ![](img/tapioca/tapioca-tzu-s3.jpg)
 
-![](img/tapioca/tapioca-cracklings-montage.gif)
-
 **Cracklings** textured flat brushes in Tzu Season 3. Cracklings are various flat brushes that are mainly for solid, dense painting. If you have a pen that supports pen direction, I think these are more controllable than the other heavily-textured Tzu brushes.
+
+![](img/tapioca/tapioca-cracklings-montage.gif)
 
 ---
 
 ## EnpitsuPaint
 These are some EnpitsuP brushes (the main set is a different pack) that have been tweaked for dynamics, brush size, shape and texture, to be better for painting. It also includes some Tapioca-exclusive pencil painting brushes like EnpitsuPaint Dash.
 
-![](img/tapioca/tapioca-enpitsupaint.jpg)
-
 ![](img/tapioca/tapioca-enpitsupaint-manul.jpg)
+
+![](img/tapioca/tapioca-enpitsupaint.jpg)
 
 ---
 
@@ -85,9 +85,9 @@ Whip Chalk is a small specialized set of brushes that help quickly paint directi
 
 These are preshaped brushes that help you paint things that otherwise require a lot of repetitive brush strokes, or painting and erasing and switching tools. 
 
-![](img/tapioca/tapioca-pipton.jpg)
-
 {% include mp4-embed.html url="img/tapioca/tapioca-pipton-leaf.mp4" %}
+
+![](img/tapioca/tapioca-pipton.jpg)
 
 ---
 
@@ -95,9 +95,9 @@ These are preshaped brushes that help you paint things that otherwise require a 
 
 These are shaped brushes that are meant to paint little details manually like grass, leaves and other plants, but also other similarly linear or blobby shapes. Some of them can also be used for general detail painting.
 
-![](img/tapioca/tapioca-leif.jpg)
-
 ![](img/tapioca/tapioca-leif-grass.jpg)
+
+![](img/tapioca/tapioca-leif.jpg)
 
 ---
 
@@ -105,11 +105,11 @@ These are shaped brushes that are meant to paint little details manually like gr
 
 These are particle brushes for use with shape-oriented grainy shading or to add grit to certain parts or shapes of other styles.
 
-![](img/tapioca/tapioca-seasalt.jpg)
-
 ![](img/tapioca/tapioca-seasalt-cloud.jpg)
 
 ![](img/tapioca/tapioca-seasalt-orb.gif)
+
+![](img/tapioca/tapioca-seasalt.jpg)
 
 
 ---
