@@ -87,10 +87,7 @@ These are preshaped brushes that help you paint things that otherwise require a 
 
 ![](img/tapioca/tapioca-pipton.jpg)
 
-![](img/tapioca/tapioca-pipton-bush.gif)
-
-![](img/tapioca/tapioca-pipton-leaf.mp4)
-
+{% include mp4-embed.html url="img/tapioca/tapioca-pipton-leaf.mp4" %}
 
 ---
 
