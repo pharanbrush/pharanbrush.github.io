@@ -13,8 +13,6 @@ brushpack: enpitsup
 
 EnpitsuP is a set of brushes designed for drawing, inking and sketching. This set includes a variety pencils and shading tools, and natural and digital line art, drawing and ink brushes.
 
-![](img/enpitsup/enpitsup-montage-01.gif)
-
 ## What's Included?
 
 This brush set is separated into:
@@ -95,6 +93,10 @@ However, certain styles of drawing and shading do require building up pencil mar
 
 ![](img/enpitsup/enpitsup-comparedensity.jpg)
 
+
+---
+
+![](img/enpitsup/enpitsup-montage-01.gif)
 
 ---
 
