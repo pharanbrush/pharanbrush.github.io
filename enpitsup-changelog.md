@@ -13,6 +13,16 @@ brushpack: enpitsup
 ![](img/enpitsup/enpitsup-sidebar-banner.png)
 
 ---
+## 2022
+
+### 2022 Feb 21
+
+Some minor rearrangment of files to better reflect the promotional materials.
+
+The **Mr Ket set** is now part of the main file in the Digital Drawing folder, instead of in the separate common digital drawing set.
+
+
+---
 ## 2021
 
 ### 2021 Sep 20
