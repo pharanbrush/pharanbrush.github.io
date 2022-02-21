@@ -89,7 +89,7 @@ Many of these brushes were designed around a specific size. Most of them have so
 ![](img/enpitsup/enpitsup-resize-tolerance.jpg)
 
 
-Some of the pencil brushes are set to the **[Compare Density]** blend by default. This is to partially reflect how pencil marks partially block further pencil marks from going on the page, and should make drawings look less messy.
+Some of the pencil brushes are set to the **[Compare Density]** blend mode by default. This is to partially reflect how pencil marks partially block further pencil marks from going on the page, and should help make drawings look less messy.
 
 However, certain styles of drawing and shading do require building up pencil marks on top of each other slowly. In this case, you may need to swich the brush blend mode to **[Normal]** or **[Multiply]**. 
 
