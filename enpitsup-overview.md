@@ -9,10 +9,11 @@ brushpack: enpitsup
 - **Shop page:** https://ko-fi.com/pharanbrush/shop
 - **Changelog:** [Tapioca changelog](../enpitsup-changelog)
 
+![](img/enpitsup/enpitsup-cover-mini.png)
+
 EnpitsuP is a set of brushes designed for drawing, inking and sketching. This set includes a variety pencils and shading tools, and natural and digital line art, drawing and ink brushes.
 
-cover
-![](cover)
+![](img/enpitsup/enpitsup-montage-01.gif)
 
 ## What's Included?
 
@@ -30,17 +31,23 @@ It also includes:
 - PharanBrush Common Erasers
 - **BorupenP+** - special versions of BorupenP brushes and a few extras in the same theme.
 
-![](img/enpitsup/enpitsup-montage-01.gif)
-
 ---
 
 ### EnpitsuP
 
 EnpitsuP includes a set of natural looking pencils and their digital-looking counterparts, useful for different styles.
 
+![](img/enpitsup/enpitsup-quackwell-bar.gif)
+
 ![](img/enpitsup/enpitsup-pencils.jpg)
 
 ![](img/enpitsup/enpitsup-quackwell.jpg)
+
+![](img/enpitsup/enpitsup-renderenpitsu-beta.png)
+
+![](img/enpitsup/enpitsup-iroenpitsu-2021.gif)
+
+(IroEnpitsuP 2021)
 
 
 ### Natural Pens
@@ -53,6 +60,8 @@ There are a few natural pens that approximate technical, gel and nib pens with t
 ### Digital Drawing
 
 The EnpitsuP set includes various drawing and inking brushes with various levels of roughness and tapering.
+
+![](img/enpitsup/enpitsup-inkers-bar.gif)
 
 ![](img/enpitsup/enpitsup-digital-drawing.jpg)
 
