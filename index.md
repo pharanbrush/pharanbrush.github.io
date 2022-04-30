@@ -1,3 +1,7 @@
+---
+title: "PharanBrush Documentation"
+---
+
 ## PharanBrush
 
 You can find my brushes at [my shop](https://ko-fi.com/pharanbrush/shop).
