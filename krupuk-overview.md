@@ -88,8 +88,12 @@ Here are some tips and how-tos that are included in the pack.
 
 ![](img/krupuk/krupuk-sample-opaque1.jpg)
 
+![](img/krupuk/krupuk-sample-kropek-mochizou.jpg)
+
 ![](img/krupuk/krupuk-sample-dusk.jpg)
 (character Dusk belongs to [@duskwalker](https://twitter.com/duskwalker_))
+
+
 
 ---
 
