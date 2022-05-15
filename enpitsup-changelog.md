@@ -15,6 +15,11 @@ brushpack: enpitsup
 ---
 ## 2022
 
+### 2022 May 15
+
+Uploaded the beta version of the EnpitsuP Settei set. Still working on the documentation.
+
+
 ### 2022 Feb 21
 
 Some minor rearrangment of files to better reflect the promotional materials.
