@@ -22,6 +22,7 @@ This brush set is separated into:
 - **Digital Drawing** - drawing brushes that don't try to look like the natural media.
     - **Digital EnpitsuP** - more opaque, non-natural-looking versions of EnpitsuP and BorupenP.
     - **Superclean Linework** - Plain inking brushes, designed for different levels of softness, density and resolution.
+- **EnpitsuP Settei** - even-width versions of select brushes from EnpitsuP and BorupenP, good for animation tests, character sheets, writing, etc.
 
 It also includes:
 - Some utilities such as fill tools for filling sketches, and plain shapes.
@@ -77,6 +78,15 @@ The set includes the small set of PharanBrush erasers.
 ![](img/enpitsup/enpitsup-electriceraser.jpg)
 
 Use **Electric EraserP** for natural-looking small erasures. This can also be used to draw white details.
+
+### EnpitsuP Settei
+
+These are even-width versions of select brushes from EnpitsuP and BorupenP, good for animation tests, character sheets, writing, etc.
+
+You can read more about it here: https://pharanbrush-log.tumblr.com/post/690514861842726912/
+
+![](img/enpitsup/enpitsup-settei-cover.jpg)
+
 
 ---
 

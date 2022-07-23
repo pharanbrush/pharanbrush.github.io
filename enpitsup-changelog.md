@@ -15,6 +15,13 @@ brushpack: enpitsup
 ---
 ## 2022
 
+### 2022 Jul 23
+
+Uploaded the release version of EnpitsuP Settei.
+
+You can find out more about it here: https://pharanbrush-log.tumblr.com/post/690514861842726912/
+
+
 ### 2022 May 15
 
 Uploaded the beta version of the EnpitsuP Settei set. Still working on the documentation.
