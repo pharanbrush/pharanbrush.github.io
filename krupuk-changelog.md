@@ -13,6 +13,17 @@ brushpack: krupuk
 ![](img/krupuk/krupuk-sidebar-banner.png)
 
 ---
+## 2022 Aug 9
+
+Minor update to the Kropek beta set.
+
+I've added **4 Crewpeck WCB brushes**. Instead of being mostly rough-dry, they are meant to have a smoother look when pressing normally, and rough-dry when pressing lightly.
+
+This makes them look like cleaner brushes but still have some personality.
+
+![](img/krupuk/krupuk-crewpeck-samples.gif)
+
+
 ## 2021
 
 ### 2021 Oct 18
