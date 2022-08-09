@@ -23,6 +23,8 @@ This makes them look like cleaner brushes but still have some personality.
 
 ![](img/krupuk/krupuk-crewpeck-samples.gif)
 
+![](img/krupuk/krupuk-kropek-crewpeck-comparison.png)
+
 
 ## 2021
 
