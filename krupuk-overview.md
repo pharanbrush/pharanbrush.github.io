@@ -62,6 +62,14 @@ These also include the WCB paper texture.
 
 ![](img/krupuk/krupuk-kropek-montage.gif)
 
+### Crewpeck
+
+Extending on the Kropek set, these are more controllable dual brushes. They have controllable edges when pressing normally, and fade out to rough edges as you press lighter.
+
+![](img/krupuk/krupuk-kropek-crewpeck-comparison.png)
+
+![](img/krupuk/krupuk-crewpeck-samples.gif)
+
 ### Krupuk Inkers
 
 **Krupuk Inkers** are thick, inking brushes that look water-based. They have pressure-responsive color dynamics so it darkens and saturates as you press harder, mimicking dense colored specialty inks.
