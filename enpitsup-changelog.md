@@ -15,6 +15,10 @@ brushpack: enpitsup
 ---
 ## 2022
 
+### 2022 Oct 27
+
+Minor correction: The fixed-color *Green DuckwellP* brush was missing. It's now included in the main set with the others, under Brushes > 1. Enpitsu > 2. Fixed Color EnpitsuP
+
 ### 2022 Jul 23
 
 Uploaded the release version of EnpitsuP Settei.
