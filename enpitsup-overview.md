@@ -88,7 +88,7 @@ Use **Electric EraserP** for natural-looking small erasures. This can also be us
 
 These are even-width versions of select brushes from EnpitsuP and BorupenP, good for animation tests, character sheets, writing, etc.
 
-You can read more about it here: https://pharanbrush-log.tumblr.com/post/690514861842726912/
+You can read more about it here: [https://pharanbrush-log.tumblr.com/post/690514861842726912/](https://pharanbrush-log.tumblr.com/post/690514861842726912/)
 
 ![](img/enpitsup/enpitsup-settei-cover.jpg)
 
