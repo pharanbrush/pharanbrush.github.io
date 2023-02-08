@@ -65,6 +65,10 @@ The EnpitsuP set includes various drawing and inking brushes with various levels
 
 ![](img/enpitsup/enpitsup-digital-drawing.jpg)
 
+![](img/enpitsup/enpitsup-digital-digistudy-2022.jpg)
+
+![](img/enpitsup/enpitsup-tail-tzu-smooth-pen.png)
+
 
 ### Superclean Linework
 
