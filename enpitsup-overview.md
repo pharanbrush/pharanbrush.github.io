@@ -7,7 +7,7 @@ brushpack: enpitsup
 # EnpitsuP
 
 - **Shop page:** https://ko-fi.com/pharanbrush/shop
-- **Changelog:** [Tapioca changelog](../enpitsup-changelog)
+- **Changelog:** [EnpitsuP changelog](../enpitsup-changelog)  
 
 ![](img/enpitsup/enpitsup-cover-mini.png)
 

@@ -8,7 +8,8 @@ brushpack: enpitsup
 # EnpitsuP - Pencils and Drawing Brushes for Clip Studio Paint
 ## Changelog
 
-- **Shop page:** [https://ko-fi.com/pharanbrush/shop](https://ko-fi.com/pharanbrush/shop)
+- **Shop page:** [https://ko-fi.com/pharanbrush/shop](https://ko-fi.com/pharanbrush/shop)  
+- **Overview:** [EnpitsuP overview](../enpitsup-overview)  
 
 ![](img/enpitsup/enpitsup-sidebar-banner.png)
 
@@ -23,26 +24,26 @@ New [EnpitsuP map](img/enpitsup/enpitsup-obsidian-map.png). Some people inevitab
 
 **New Side Pencils**  
 
-**AshwellP Side**, **BeakwellP Side**. **CharwellP Side**
-![](img/enpitsup/enpitsup-side-pencil-gen1.png)
+**AshwellP Side**, **BeakwellP Side**. **CharwellP Side**  
+![](img/enpitsup/enpitsup-side-pencil-gen1.png)  
 These are some general-use pencils that feel more pencil-y by default, analogous to default pencils in tablet apps.
 
 These are less line-drawing-centric than the main EnpitsuP pencil brushes. 
 
-**Bichael BōrupenP** (BōrupenP Plus)
-![](img/enpitsup/enpitsup-borupenp-bichael.png)
+**Bichael BōrupenP** (BōrupenP Plus)  
+![](img/enpitsup/enpitsup-borupenp-bichael.png)  
 A cleaner, more controllable, slightly more render-capable ballpoint pen brush. Named for the slightly cheap but flowly ballpoint ink it mimics, on a nice clean sketchbook.
 
-**Rice Idea ph**
-![](img/enpitsup/enpitsup-rice-idea.png)
+**Rice Idea ph**  
+![](img/enpitsup/enpitsup-rice-idea.png)  
 Fun little digital sketch brush that occasionally feels like a black sketch marker. This first debuted as one of the Settei brushes but I had already created this brush long before that. The tip is shaped like a short rice grain.
 
 
-**DigiStudy 2022** - A clean digital sketch brush I used in 2022.
+**DigiStudy 2022** - A clean digital sketch brush I used in 2022.  
 
 ![](img/enpitsup/enpitsup-digital-digistudy-2022.jpg)
 
-Added **Settei Enclose Fill** tools for convenient filling that matches most Settei thickness.
+Added **Settei Enclose Fill** tools for convenient filling that matches most Settei thickness.  
 
 ![](img/enpitsup/enpitsup-settei-enclose-fill.gif)
 
