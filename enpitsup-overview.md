@@ -28,7 +28,7 @@ It also includes:
 - Some utilities such as fill tools for filling sketches, and plain shapes.
 - Meme brushes
 - PharanBrush Common Erasers
-- **BorupenP+** - special versions of BorupenP brushes and a few extras in the same theme.
+- **BorupenP Plus** - special versions of BorupenP brushes and a few extras in the same theme.
 
 ---
 
@@ -38,7 +38,7 @@ EnpitsuP includes a set of natural looking pencils and their digital-looking cou
 
 ![](img/enpitsup/enpitsup-quackwell-bar.gif)
 
-![](img/enpitsup/enpitsup-pencils.jpg)
+![](img/enpitsup/enpitsup-list-pencils-version-3-2.jpg)
 
 ![](img/enpitsup/enpitsup-quackwell.jpg)
 
@@ -46,14 +46,15 @@ EnpitsuP includes a set of natural looking pencils and their digital-looking cou
 
 ![](img/enpitsup/enpitsup-iroenpitsu-2021.gif)
 
-(IroEnpitsuP 2021)
-
 
 ### Natural Pens
 
 There are a few natural pens that approximate technical, gel and nib pens with their taper and slight fringing.
 
 ![](img/enpitsup/enpitsup-naturalpens.jpg)
+
+**BorupenP Plus**
+![](img/enpitsup/enpitsup-borupenp-bichael.png)
 
 
 ### Digital Drawing
