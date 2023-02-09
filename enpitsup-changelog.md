@@ -22,6 +22,12 @@ brushpack: enpitsup
 
 New [EnpitsuP map](img/enpitsup/enpitsup-obsidian-map.png). Some people inevitably understand the organization better visually, so I'm making a map of the EnpitsuP brushes starting with the pencils.
 
+**Bichael BōrupenP** (BōrupenP Plus)  
+![](img/enpitsup/enpitsup-borupenp-bichael.png)  
+A cleaner, more controllable, slightly more render-capable ballpoint pen brush. Named for the slightly cheap but flowly ballpoint ink it mimics, on a nice clean sketchbook. You can read more about Bichael BōrupenP here: [https://www.tumblr.com/pharanbrush-log/708760186194624512](https://www.tumblr.com/pharanbrush-log/708760186194624512)
+![](img/enpitsup/enpitsup-bichael-sketch-350.jpg)
+
+
 **New Side Pencils**  
 
 **AshwellP Side**, **BeakwellP Side**. **CharwellP Side**  
@@ -30,9 +36,9 @@ These are some general-use pencils that feel more pencil-y by default, analogous
 
 These are less line-drawing-centric than the main EnpitsuP pencil brushes. 
 
-**Bichael BōrupenP** (BōrupenP Plus)  
-![](img/enpitsup/enpitsup-borupenp-bichael.png)  
-A cleaner, more controllable, slightly more render-capable ballpoint pen brush. Named for the slightly cheap but flowly ballpoint ink it mimics, on a nice clean sketchbook.
+![](img/enpitsup/enpitsup-charwellp-sample.png)  
+CharwellP Side  
+
 
 **Rice Idea ph**  
 ![](img/enpitsup/enpitsup-rice-idea.png)  
@@ -41,7 +47,7 @@ Fun little digital sketch brush that occasionally feels like a black sketch mark
 
 **DigiStudy 2022** - A clean digital sketch brush I used in 2022.  
 
-![](img/enpitsup/enpitsup-digital-digistudy-2022.jpg)
+![](img/enpitsup/enpitsup-digital-digistudy-2022.jpg)  
 
 Added **Settei Enclose Fill** tools for convenient filling that matches most Settei thickness.  
 
