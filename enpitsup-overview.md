@@ -46,6 +46,8 @@ EnpitsuP includes a set of natural looking pencils and their digital-looking cou
 
 ![](img/enpitsup/enpitsup-iroenpitsu-2021.gif)
 
+![](img/enpitsup/enpitsup-stumpitsup.jpg)
+
 
 ### Natural Pens
 
