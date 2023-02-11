@@ -9,6 +9,11 @@ brushpack: enpitsup
 - **Shop page:** https://ko-fi.com/pharanbrush/shop
 - **Changelog:** [EnpitsuP changelog](../enpitsup-changelog)  
 
+These brushes, or parts of them (textures, stamps, brush shapes, icons), are not free for redistribution or resale.
+Don't use any part of them in your products. Just use them as tools in Clip Studio Paint.
+
+---
+
 ![](img/enpitsup/enpitsup-cover-mini.png)
 
 EnpitsuP is a set of brushes designed for drawing, inking and sketching. This set includes a variety pencils and shading tools, and natural and digital line art, drawing and ink brushes.

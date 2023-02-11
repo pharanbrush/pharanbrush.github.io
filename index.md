@@ -8,6 +8,11 @@ You can find my brushes at [my shop](https://ko-fi.com/pharanbrush/shop).
 
 If you are having trouble with payments through the ko-fi shop, you can try the [PharanBrush gumroad store](https://pharan.gumroad.com) as an alternative.
 
+These brushes, or parts of them (textures, stamps, brush shapes, icons), are not free for redistribution or resale.
+Don't use any part of them in your products. Just use them as tools in Clip Studio Paint.
+
+---
+
 ### Brush Pack Documentation
 - [Brush Store](https://ko-fi.com/pharanbrush/shop)
 

@@ -10,6 +10,11 @@ brushpack: krupuk
 
 **Shop page:** [https://ko-fi.com/pharanbrush/shop](https://ko-fi.com/pharanbrush/shop)
 
+These brushes, or parts of them (textures, stamps, brush shapes, icons), are not free for redistribution or resale.
+Don't use any part of them in your products. Just use them as tools in Clip Studio Paint.
+
+---
+
 **Krupuk Markers and Water** is a set of Clip Studio Paint brushes that try to look like markers and thin, water-based media, with various shapes and amounts of grain and texture.
 
 This was originally a set of brushes to help me quickly do quick coloring on sketches, but I later expanded to be able to achieve a broader set of marker-like looks.

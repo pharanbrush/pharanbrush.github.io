@@ -11,6 +11,11 @@ brushpack: tapioca
 - **Changelog:** [Tapioca changelog](../tapioca-changelog)
 - **Tapioca does not include EnpitsuP and Krupuk. Those are separate brush sets.**
 
+These brushes, or parts of them (textures, stamps, brush shapes, icons), are not free for redistribution or resale.
+Don't use any part of them in your products. Just use them as tools in Clip Studio Paint.  
+
+---
+
 Tapioca is multiple sets of brush sets. Each set has a theme that helps you achieve a certain look or task.
 
 ![](img/tapioca/tapioca-cover.jpg)
