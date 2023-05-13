@@ -13,6 +13,15 @@ brushpack: krupuk
 ![](img/krupuk/krupuk-sidebar-banner.png)
 
 ---
+
+## 2023
+
+### 2023 May 13
+
+Added the "Getting Started" file. You can [read more about the Getting Started files](../getting-started).
+
+## 2022
+
 ## 2022 Aug 9
 
 Minor update to the Kropek beta set.
