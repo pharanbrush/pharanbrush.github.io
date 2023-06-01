@@ -16,11 +16,6 @@ The majority of the brushes in the full set will be variations of these main bru
 
 ---
 
-Each pack also comes with a folder of images that illustrate samples and tips for how to use the brushes.
-
-![](img/getting-started/getting-started-tips-and-samples-files.png)
-
----
 
 For questions or support:
 
