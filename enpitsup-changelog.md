@@ -16,6 +16,9 @@ brushpack: enpitsup
 ---
 ## 2023
 
+### 2023 Jun 1
+Renamed the "Getting Started" file to "Sampler Set".
+
 ### 2023 May 13
 
 Added the "Getting Started" file. You can [read more about the Getting Started files](../getting-started).

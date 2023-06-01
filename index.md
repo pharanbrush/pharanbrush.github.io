@@ -14,11 +14,9 @@ If you are having trouble with payments through the ko-fi shop, you can try the 
 
 ### Getting Started
 
-If you just want to jump in and get a feel for the brushes, each pack comes with a [Getting Started](getting-started) file to help you ease into the pack instead of immediately installing the hundreds of included brushes.  
+Each of my brush packs have over a hundred brushes in them. Depending on how you want to proceed, I'm trying to provide more options to discover what brushes you might like or find useful, from swatches, videos, tips images and sampler sets.
 
-Alternatively, each main zip file for each pack has an image comes with a folder of images that illustrate samples and tips for how to use the brushes.
-
-![](img/getting-started/getting-started-tips-and-samples-files.png)
+Visit the [Getting Started](getting-started) page for more info.
 
 
 ### Brush Pack Documentation
