@@ -36,6 +36,8 @@ A set of digital-looking brushes, some plain with varying hardness for maximum c
 
 ![](img/tapioca/tapioca-tahini.jpg)
 
+> **Can be found in:** TapiocaP ph Digital Painting (main set) > Brushes > 1. Painting > Tahini
+
 ---
 
 ## Blenders
@@ -43,10 +45,14 @@ Tapioca also includes various blending brushes.
 
 {% include youtube-embed.html url="https://www.youtube.com/embed/kWW_hsC4WRI" %}
 
+> **Can be found in:** TapiocaP ph Digital Painting (main set) > Brushes > 1. Painting > Blenders
+
 ---
 
 ## SIGH Suisai
-A small set of plain blendy-blurry brushes. (In CSP 1.11.x, there's a problem with Density of Paint when using the Running color mixing mode so these brushes may not function as intended until a future update fixes it.)
+A small set of plain blendy-blurry brushes. (In CSP 1.11.x, there's a problem with Density of Paint when using the Running color mixing mode. A more recent update fixed it. This is also not a problem in 2.x and later.)
+
+> **Can be found in:** TapiocaP ph Digital Painting (main set) > Brushes > 1. Painting > Sign Suisai
 
 ---
 
@@ -55,9 +61,13 @@ Various high-texture brushes for different purposes, including blenders. These a
 
 ![](img/tapioca/tapioca-tzu-s3.jpg)
 
+> **Can be found in:** Tzu Season 3 set >
+
 **Cracklings** textured flat brushes in Tzu Season 3. Cracklings are various flat brushes that are mainly for solid, dense painting. If you have a pen that supports pen direction, I think these are more controllable than the other heavily-textured Tzu brushes.
 
 ![](img/tapioca/tapioca-cracklings-montage.gif)
+
+> **Can be found in:** Tzu Season 3 set >
 
 ---
 
@@ -66,7 +76,11 @@ These are some EnpitsuP brushes (the main set is a different pack) that have bee
 
 ![](img/tapioca/tapioca-enpitsupaint-manul.jpg)
 
+> **Can be found in:** EnpitsuPaint & Felt set >
+
 ![](img/tapioca/tapioca-enpitsupaint.jpg)
+
+> **Can be found in:** EnpitsuPaint & Felt set >
 
 ---
 
@@ -76,6 +90,8 @@ These are some EnpitsuP brushes (the main set is a different pack) that have bee
 
 These are large, rough brushes that were made to cover large areas, with some pleasant edges or stroke-overlapping properties. They're useful for doing quick backgrounds, or if your work demands it, getting large surfaces done to about 80% so you can paint the remaining details manually.
 
+> **Can be found in:** Big Brush Ruffers & Wall set >
+
 ---
 
 ## Whip Chalk
@@ -83,6 +99,8 @@ These are large, rough brushes that were made to cover large areas, with some pl
 Whip Chalk is a small specialized set of brushes that help quickly paint directional or radial brush streaks for whip pans and blurred speeding or abstract backgrounds. The set includes rulers, a few brushes that generate a palette/fill an area with a base pattern, and various brushes for painting individual strokes manually. These are useful for comics and animation backgrounds.
 
 ![](img/tapioca/tapioca-whip.jpg)
+
+> **Can be found in:** Whip Chalk ph set >
 
 ---
 
@@ -94,6 +112,8 @@ These are preshaped brushes that help you paint things that otherwise require a 
 
 ![](img/tapioca/tapioca-pipton.jpg)
 
+> **Can be found in:** Pipton and Shapes ph set >
+
 ---
 
 ## Leif
@@ -102,7 +122,11 @@ These are shaped brushes that are meant to paint little details manually like gr
 
 ![](img/tapioca/tapioca-leif-grass.jpg)
 
+> **Can be found in:** Pipton and Shapes ph set >
+
 ![](img/tapioca/tapioca-leif.jpg)
+
+> **Can be found in:** Pipton and Shapes ph set >
 
 ---
 
@@ -112,9 +136,15 @@ These are particle brushes for use with shape-oriented grainy shading or to add 
 
 ![](img/tapioca/tapioca-seasalt-cloud.jpg)
 
+> **Can be found in:** Pipton and Shapes ph set >
+
 ![](img/tapioca/tapioca-seasalt-orb.gif)
 
+> **Can be found in:** Pipton and Shapes ph set >
+
 ![](img/tapioca/tapioca-seasalt.jpg)
+
+> **Can be found in:** Pipton and Shapes ph set >
 
 
 ---
@@ -133,9 +163,15 @@ This set includes painting utility brushes like buckets and fillers, color-pulle
 
 ![](img/tapioca/tapioca-antibanding.png)
 
+> **Can be found in:** Paint Utilities TapiocaP set >
+
 ![](img/tapioca/tapioca-chalkfiller.gif)
 
+> **Can be found in:** Paint Utilities TapiocaP set >
+
 {% include youtube-embed.html url="https://www.youtube.com/embed/Up5lJUwulEo" %}
+
+> **Can be found in:** Paint Utilities TapiocaP set >
 
 ---
 

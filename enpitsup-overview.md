@@ -45,13 +45,23 @@ EnpitsuP includes a set of natural looking pencils and their digital-looking cou
 
 ![](img/enpitsup/enpitsup-list-pencils-version-3-2.jpg)
 
+> **Can be found in:** Main Enpitsu set>Brushes>1.Enpitsu
+
 ![](img/enpitsup/enpitsup-quackwell.jpg)
+
+> **Can be found in:** Main Enpitsu set>Brushes>1.Enpitsu
 
 ![](img/enpitsup/enpitsup-renderenpitsu-beta.png)
 
+> **Can be found in:** ph Render Enpitsu set (ph-RenderEnpitsu-Beta)
+
 ![](img/enpitsup/enpitsup-iroenpitsu-2021.gif)
 
+> **Can be found in:** Main Enpitsu set>Brushes>1.Enpitsu
+
 ![](img/enpitsup/enpitsup-stumpitsup.jpg)
+
+> **Can be found in:** Main Enpitsu set>Brushes>1.Enpitsu
 
 
 ### Natural Pens
@@ -60,8 +70,12 @@ There are a few natural pens that approximate technical, gel and nib pens with t
 
 ![](img/enpitsup/enpitsup-naturalpens.jpg)
 
+> **Can be found in:** Main Enpitsu set>Brushes>2.Natural Pens
+
 **BorupenP Plus**
 ![](img/enpitsup/enpitsup-borupenp-bichael.png)
+
+> **Can be found in:** ph BorupenP Plus set >
 
 
 ### Digital Drawing
@@ -72,9 +86,15 @@ The EnpitsuP set includes various drawing and inking brushes with various levels
 
 ![](img/enpitsup/enpitsup-digital-drawing.jpg)
 
+> **Can be found in:** Main Enpitsu set>Brushes>3. Digital Drawing
+
 ![](img/enpitsup/enpitsup-digital-digistudy-2022.jpg)
 
+> **Can be found in:** Main Enpitsu set>Brushes>3. Digital Drawing
+
 ![](img/enpitsup/enpitsup-tail-tzu-smooth-pen.png)
+
+> **Can be found in:** Main Enpitsu set>Brushes>3. Digital Drawing
 
 
 ### Superclean Linework
@@ -83,11 +103,15 @@ Superclean Linework is a set of plain inking brushes of varying density, softnes
 
 ![](img/enpitsup/enpitsup-superclean.jpg)
 
+> **Can be found in:** Main Enpitsu set>Brushes>3. Digital Drawing>2.Superclean Linework
+
 ### Erasers
 
 The set includes the small set of PharanBrush erasers.
 
 ![](img/enpitsup/enpitsup-electriceraser.jpg)
+
+> **Can be found in:** Erasers-PharanBrush-Common >
 
 Use **Electric EraserP** for natural-looking small erasures. This can also be used to draw white details.
 
@@ -98,6 +122,8 @@ These are even-width versions of select brushes from EnpitsuP and BorupenP, good
 You can read more about it here: [https://pharanbrush-log.tumblr.com/post/690514861842726912/](https://pharanbrush-log.tumblr.com/post/690514861842726912/)
 
 ![](img/enpitsup/enpitsup-settei-cover.jpg)
+
+> **Can be found in:** EnpitsuP Settei set >
 
 
 ---

@@ -39,15 +39,25 @@ Krupuk is separated according to its grain, which are scans of different kinds o
 
 ![](img/krupuk/krupuk-main-set-samples.jpg)
 
+> **Can be found in:** ph Krupuk MarkersAndWater (main set) > 
+
 Each category has a variety of shapes, softness and fuzziness. For example **Chisel** is for chisel tip markers. **Fine** is for fine-tip. **Marker** is for a general ovoid shape. Use **Haze** as a soft brush. There are several other shapes too.
 
 ![](img/krupuk/krupuk-tips-shapes.jpg)
 
+> **Can be found in:** ph Krupuk MarkersAndWater (main set) > Brushes > Krupuk...
+
 ![](img/krupuk/krupuk-tips-marker-vs-brush.jpg)
+
+> **Can be found in:** ph Krupuk MarkersAndWater (main set) > Brushes > Krupuk...
 
 ![](img/krupuk/krupuk-tips-overmarker.jpg)
 
+> **Can be found in:** ph Krupuk MarkersAndWater (main set) > Brushes > Krupuk...
+
 ![](img/krupuk/krupuk-tips-haze-circle.jpg)
+
+> **Can be found in:** ph Krupuk MarkersAndWater (main set) > Brushes > Krupuk...
 
 There are also variations for how deep the color is. Some markers have **Mid** and **Light** variants. The **Mid** variants help show the actual picked color better when that's the desired effect.
 
@@ -67,13 +77,19 @@ These also include the WCB paper texture.
 
 ![](img/krupuk/krupuk-kropek-montage.gif)
 
+> **Can be found in:** Kropek Beta set >
+
 ### Crewpeck
 
 Extending on the Kropek set, these are more controllable dual brushes. They have controllable edges when pressing normally, and fade out to rough edges as you press lighter.
 
 ![](img/krupuk/krupuk-kropek-crewpeck-comparison.png)
 
+> **Can be found in:** Kropek Beta set >
+
 ![](img/krupuk/krupuk-crewpeck-samples.gif)
+
+> **Can be found in:** Kropek Beta set >
 
 ### Krupuk Inkers
 
@@ -81,13 +97,19 @@ Extending on the Kropek set, these are more controllable dual brushes. They have
 
 ![](img/krupuk/krupuk-ink-montage.gif)
 
+> **Can be found in:** ph Krupuk MarkersAndWater (main set) > Brushes > 1. Inkers
+
 ### Script Tzu
 
 **Script Tzu** is a small set of Asian calligraphy brushes.
 
 ![](img/krupuk/krupuk-script-tzu.gif)
 
+> **Can be found in:** ph Script Tzu set >
+
 ![](img/krupuk/krupuk-script-tzu-yu.gif)
+
+> **Can be found in:** ph Script Tzu set >
 
 
 ---
@@ -104,6 +126,7 @@ Here are some tips and how-tos that are included in the pack.
 ![](img/krupuk/krupuk-sample-kropek-mochizou.jpg)
 
 ![](img/krupuk/krupuk-sample-dusk.jpg)
+
 (character Dusk belongs to [@duskwalker](https://twitter.com/duskwalker_))
 
 
