@@ -155,6 +155,8 @@ In the absence of an actual water engine in Clip Studio Paint, the set comes wit
 
 ![](img/krupuk/krupuk-tips-water-erasers.jpg)
 
+> **Can be found in:** ph Krupuk MarkersAndWater (main set) > Brushes > 2. Erasers
+
 ---
 
 {% include helpful-reading.html %}
