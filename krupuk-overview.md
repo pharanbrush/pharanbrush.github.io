@@ -34,7 +34,7 @@ This was originally a set of brushes to help me quickly do quick coloring on ske
 
 Krupuk is separated according to its grain, which are scans of different kinds of paper.
 - **CP** is regular printer paper, which tends to look more like an everyday marker drawing, with characteristic white spots.
-- **SP** is light-medium () sketchpad paper which shows a little bit of paper grain.
+- **SP** is light-medium sketchpad paper which shows a little bit of paper grain.
 - **SPG** is the sketchpad paper but with more visible granules, to look more like certain grainy pigments.
 
 ![](img/krupuk/krupuk-main-set-samples.jpg)
@@ -67,7 +67,8 @@ More recently, Clip Studio Paint has added the ability to adjust the **Brightnes
 
 ![](img/krupuk/krupuk-montage.gif)
 
-Krupuk also includes a set of **effects brushes** that help achieve certain effects.
+Krupuk also includes a set of **effects brushes** that help achieve certain effects.  
+> **Can be found in:** ph Krupuk MarkersAndWater (main set) > Brushes > 4. Krupuk Wet Effects
 
 ### Kropek
 
@@ -77,7 +78,7 @@ These also include the WCB paper texture.
 
 ![](img/krupuk/krupuk-kropek-montage.gif)
 
-> **Can be found in:** Kropek Beta set >
+> **Can be found in:** Kropek set >
 
 ### Crewpeck
 
@@ -85,11 +86,11 @@ Extending on the Kropek set, these are more controllable dual brushes. They have
 
 ![](img/krupuk/krupuk-kropek-crewpeck-comparison.png)
 
-> **Can be found in:** Kropek Beta set >
+> **Can be found in:** Kropek set >
 
 ![](img/krupuk/krupuk-crewpeck-samples.gif)
 
-> **Can be found in:** Kropek Beta set >
+> **Can be found in:** Kropek set >
 
 ### Krupuk Inkers
 
