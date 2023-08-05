@@ -16,6 +16,18 @@ brushpack: enpitsup
 ---
 ## 2023
 
+### 2023 Aug 7
+**Improved file structure** of the EnpitsuP sets.
+- The folder structure is now flattened so there's no worry about how many folders might be inside folders. I tried my best to make the brushes only one folder deep.
+- Filenames are also prefixed with names or numbers, to order and group them correctly in your file explorer. This has the side effect of being correctly ordered when you drag them into Clip Studio Paint, but the prefixes on the file names are not part of the brush names in CSP.
+- The zip file names have been shortened. "ClipStudioPaint" has been shortened to "CSP". Pharan has been shortened to "ph".
+
+**New Brushes**
+- **AshwellPW**, **BeakwellP**, **CharwellP**, **EnpitsuPW**, and **IroEnpitsuP Side** have been added to the main EnpitsuP set.
+- **Fabriel BorupenP**, **Wolliam BorupenP** have been added to BorupenP Plus
+- **PGel Settei 2022** has been added to the Settei Set.
+
+
 ### 2023 Jun 1
 Renamed the "Getting Started" file to "Sampler Set".
 

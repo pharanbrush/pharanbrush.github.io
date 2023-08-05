@@ -86,15 +86,15 @@ The EnpitsuP set includes various drawing and inking brushes with various levels
 
 ![](img/enpitsup/enpitsup-digital-drawing.jpg)
 
-> **Can be found in:** Main Enpitsu set>Brushes>3. Digital Drawing
+> **Can be found in:** Main Enpitsu set>Brushes>3. DD Digital Drawing
 
 ![](img/enpitsup/enpitsup-digital-digistudy-2022.jpg)
 
-> **Can be found in:** Main Enpitsu set>Brushes>3. Digital Drawing
+> **Can be found in:** Main Enpitsu set>Brushes>3. DD Digital Drawing
 
 ![](img/enpitsup/enpitsup-tail-tzu-smooth-pen.png)
 
-> **Can be found in:** Main Enpitsu set>Brushes>3. Digital Drawing
+> **Can be found in:** Main Enpitsu set>Brushes>3. DD Digital Drawing
 
 
 ### Superclean Linework
@@ -103,7 +103,7 @@ Superclean Linework is a set of plain inking brushes of varying density, softnes
 
 ![](img/enpitsup/enpitsup-superclean.jpg)
 
-> **Can be found in:** Main Enpitsu set>Brushes>3. Digital Drawing>2.Superclean Linework
+> **Can be found in:** Main Enpitsu set>Brushes>3. DD Superclean Linework
 
 ### Erasers
 
