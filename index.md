@@ -28,7 +28,7 @@ Visit the [Getting Started](getting-started) page for more info.
 ---
 
 These brushes, or parts of them (textures, stamps, brush shapes, icons), are not free for redistribution or resale.
-Don't use any part of them in your products. Just use them as tools in Clip Studio Paint.
+Don't include any part of them in your products. Just use them as tools in Clip Studio Paint.
 
 ---
 
