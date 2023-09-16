@@ -86,7 +86,8 @@ The EnpitsuP set includes various drawing and inking brushes with various levels
 
 ![](img/enpitsup/enpitsup-digital-drawing.jpg)
 
-> **Can be found in:** Main Enpitsu set>Brushes>3. DD Digital Drawing
+> **Can be found in:** Main Enpitsu set>Brushes>3. DD Digital Drawing  
+> **Can be found in:** Main Enpitsu set>Brushes>3. DD Digital EnpitsuP
 
 ![](img/enpitsup/enpitsup-digital-digistudy-2022.jpg)
 
