@@ -16,6 +16,11 @@ brushpack: enpitsup
 ---
 ## 2023
 
+### 2023 Sep 20
+
+**Fixed KureyonP**. KureyonP was not drawing correctly when [Color mixing] was disabled, because [Blend brush tips with darken] was checked. (This option is automatically disabled when [Color mixing] is enabled so that mode worked fine). This is now fixed.
+![](img/news/kureyon-p-blend-darken-fix.png)
+
 ### 2023 Aug 7
 **Improved file structure** of the EnpitsuP sets.
 - The folder structure is now flattened so there's no worry about how many folders might be inside folders. I tried my best to make the brushes only one folder deep.
