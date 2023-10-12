@@ -147,6 +147,11 @@ Choose between *Compare Density*, *Normal*, or *Multiply* depending on what you'
 
 ![](img/krupuk/krupuk-tips-blend-modes.jpg)
 
+![](img/krupuk/krupuk-clip-to-layer-below.png)  
+If you choose to keep using the [Compare density] blend mode, you have some options to blend multiple colors to your marker layers. You can use [Clip to Layer below] to separately handle the colors and shapes of each patch of color. Or, just add a color to your colored marker strokes.
+
+Another alternative is to lock the transparency of your layer and paint more colors on it with any soft brush that has Normal or other blend modes.
+
 
 In the absence of an actual water engine in Clip Studio Paint, the set comes with a variety of brushes that help add an unevenness effect without too much extra effort.
 
