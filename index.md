@@ -27,7 +27,8 @@ Visit the [Getting Started](getting-started) page for more info.
 
 
 ### Printables
-- [Printables Donation pack contents](printables)
+- [Printables Donation pack contents](printables-contents)  
+
 ---
 
 These brushes, or parts of them (textures, stamps, brush shapes, icons), are not free for redistribution or resale. Don't include them in your products.
