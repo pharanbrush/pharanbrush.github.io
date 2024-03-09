@@ -27,17 +27,17 @@ The 3x3 charts are designed to fit in a 3x3 sticky note.
 
 ### For Artists/Animators
 **a-frames-per-second-a4.pdf**  
-![](img/printables/time-per-frame.jpg)  
+![](img/printables/time-per-frame.png)  
 - A chart of frame rates and time per frame, visualizing which ones are divisible or overlap. Includes GIF framerates showing the limitation of 0.01 increment frame delays. This is also useful for game programmers who have to deal with animation frames.
 
 
 ### For everyone
 **human-heights-a4.pdf**  
-![](img/printables/human-heights.jpg)  
+![](img/printables/human-heights.png)  
 - A human height chart to help you convert between feet/inches and meters. Also has a door height for reference and extra space where you can draw other heights you may find useful
 
 **g-temperature-celsius-fahrenheit.pdf**  
-![](img/printables/celsius-and-fahrenheit.jpg)  
+![](img/printables/celsius-and-fahrenheit.png)  
 - A Celsius and Fahrenheit temperature conversion chart for weather and cooking temperatures, with space to mark your own important temperatures.
 
 **g-time-12-24-3x3.pdf**  
