@@ -64,3 +64,12 @@ The 3x3 charts are designed to fit in a 3x3 sticky note.
 **a-frames-per-second-a4.pdf**  
 ![](img/printables/time-per-frame.jpg)  
 - A chart of frame rates and time per frame, visualizing which ones are divisible or overlap. Includes GIF framerates showing the limitation of 0.01 increment frame delays. This is also useful for game programmers who have to deal with animation frames.
+
+
+---
+
+You can find these printable PDFs in my shop.
+
+**Shop page:** [https://ko-fi.com/pharanbrush/shop](https://ko-fi.com/pharanbrush/shop)  
+
+**Printables Donation Pack**: [https://ko-fi.com/s/49ef6db666](https://ko-fi.com/s/49ef6db666)  
