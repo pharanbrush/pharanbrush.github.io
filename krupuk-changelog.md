@@ -13,6 +13,15 @@ brushpack: krupuk
 ![](img/krupuk/krupuk-sidebar-banner.png)
 
 ---
+## 2024
+
+### 2024 March 15
+
+Reorganized brushes to reduce confusion.  
+
+**Kropek** (the wet-dry dual brushes) are now included in the main set.  
+
+
 
 ## 2023
 
