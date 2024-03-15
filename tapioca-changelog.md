@@ -17,6 +17,33 @@ brushpack: tapioca
 ---
 ## 2022
 
+### 2024 Mar 15
+
+**Folders have been flattened** to reduce confusion.  
+
+**Added prefixes to filenames**. These will ensure the brushes are imported in the intended order but won't affect the brush names.
+
+Added new brushes **Aioli** (Primary dense painting brushes) to Main Set/Tahini.  
+
+Added new brushes **Oliva** (Primary dilute painting Brushes) to Main Set/Tahini.  
+
+Retired **Tahini** as the primary painting brushes. This is now replaced by the Aioli brushes. The set is still called Tahini.  
+
+Added new brushes **Snoy** to the EnpitsuPaint and Felt set.
+
+Added new brushes **Kommand** (prefixed "kom") to the EnpitsuPaint and Felt set. These are a spinoff from the Kommand Ruffer brushes.
+
+Added **CharwellPPaint and WormwellPPaint brushes** to EnpitsuPaint and Felt set.
+
+New set named **Flatter's Friends**. This set includes flatting brushes, guide brushes, erasers, and processing brushes. It also includes the previously-separate set *Silhouetters*, and the cel and flat tools from the main set.
+
+Updated Common Erasers set.
+
+
+
+---
+## 2022
+
 ### 2022 Feb 17
 
 Added **Cracklings** to Tzu Season 3.
