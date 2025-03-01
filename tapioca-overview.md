@@ -155,6 +155,8 @@ A small set of brushes based on the various other sets, specifically designed to
 
 {% include youtube-embed.html url="https://www.youtube.com/embed/H5uU_zV8wQI" %}
 
+**Can be found in:** Flatter's Friends set > Silhouetters
+
 ---
 
 ## Paint Utilities
@@ -163,11 +165,11 @@ This set includes painting utility brushes like buckets and fillers, color-pulle
 
 ![](img/tapioca/tapioca-antibanding.png)
 
-> **Can be found in:** Main Tapioca set > 1.1 Soft Circles
+> **Can be found in:** TapiocaP ph Digital Painting (main set) > 1.1 Soft Circles
 
 ![](img/tapioca/tapioca-chalkfiller.gif)
 
-> **Can be found in:** Paint Utilities TapiocaP set >
+> **Can be found in:** Flatter's Friends set >
 
 {% include youtube-embed.html url="https://www.youtube.com/embed/Up5lJUwulEo" %}
 
