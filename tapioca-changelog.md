@@ -15,6 +15,15 @@ brushpack: tapioca
 ![](img/tapioca/tapioca-sidebar-banner.png)
 
 ---
+## 2025
+
+### 2025 Mar 1
+Added prefixes to **Silhouetter** brushes in the **Flatter's Friends** set.  
+
+Added **Bichael Silhouetter** to the Silhouetters in the Flatter's Friends set.
+
+
+---
 ## 2024
 
 ### 2024 Mar 15
