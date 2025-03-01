@@ -163,7 +163,7 @@ This set includes painting utility brushes like buckets and fillers, color-pulle
 
 ![](img/tapioca/tapioca-antibanding.png)
 
-> **Can be found in:** Paint Utilities TapiocaP set >
+> **Can be found in:** Main Tapioca set > 1.1 Soft Circles
 
 ![](img/tapioca/tapioca-chalkfiller.gif)
 
